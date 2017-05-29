@@ -1,0 +1,1638 @@
+clusterId:0	transfer,account_#_game,callofduty_#_xbox,home xbox,make,work,time_#_cable,ethernet cable,xboxsupport,connect,xbox_#_destiny,house,wolf,house wolf_#_dont,know,xboxsupport_#_ticket_#_cord,tried_#_solved,problem_#_message,different_#_solved,window
+clusterId:2	dutch btw httptcozoyt6nkkam_#_xboxsupport1 yeah sure,yeah sure,yeah,xboxsupport1 yeah,xboxsupport1_#_fine,fine idk,internet fine,internet,internet fine idk_#_xboxsupport im,looking,xboxsupport im looking,im looking_#_im preview,im preview program,happens,preview program,preview_#_okay,okay thanks,xboxsupport okay_#_v9 reporting isnt_#_xboxsupport,xboxsupport im,still,lumia,im getting,getting,sure,update ive_#_unlocking arent popping_#_xboxsupport,xboxsupport im,downloading,trouble,xboxsupport im trouble,im trouble_#_know,xboxsupport ok great,xboxsupport,thanks,good,bingadssupport ok good,ok good,ok good know,bingadssupport,good know_#_ive tried,tried controller,tried,ive tried controller,xboxsupport_#_xboxsupport2,xboxsupport2 yes seeing,issue,yes seeing,xboxsupport2 yes_#_ive tried,xboxsupport,help,download,xboxsupport ive,wouldnt,xboxsupport ive tried,tried web,different,ive tried web,update_#_invite,arent,arent getting invite,friend arent getting,friend,getting invite,friend arent,getting,arent getting_#_okay thank,okay_#_xboxsupport,yeah,thanks,work,work fine,xboxsupport yeah_#_yes thats,thats correct,thats
+clusterId:3	baby
+clusterId:4	thanks,okay thanks_#_thank you_#_good thank_#_thanks,awesome thanks_#_thank u,xboxsupport_#_thank you,xboxsupport_#_xboxsupport,thanks,thank,fine thanks_#_ok thanks lot,xboxsupport2_#_ok thanks_#_finally,finally thanks_#_okay,okay thanks_#_thank u,help_#_thanks,cool thanks_#_yes thank
+clusterId:5	account,security,cant,blocked,access,blocked account,access account,account cant,blocked account cant_#_window,account,cant,verify account access,account access,store,onedrive,access onedrive,verify,verify account_#_login,login cant,account,cant login,cant login cant
+clusterId:10	like,id like_#_like,sound like,sound like plan,plan,like plan_#_well like
+clusterId:11	ok ok_#_wont_#_yeah_#_yes yes_#_alright_#_oh yeah sec_#_ive got_#_okay_#_isnt_#_doesnt work_#_dont_#_nope_#_havent_#_thats_#_didnt_#_ive tried_#_doesnt
+clusterId:14	laptop,new laptop,play,laptop play,new laptop play_#_really,need,need new,really need new,really need,new laptop,good,need new laptop_#_buy new laptop,new laptop,buy new_#_new year,happy new,happy new year,happy,beam_#_need,buy new laptop,need buy new,buy new,new laptop,need buy_#_need new pc,need_#_new laptop,need,need new_#_need,new laptop,need new,need new laptop_#_new email,old email,changed,billing_#_need buy,need,buy laptop,need buy laptop_#_need new,need new pc,new pc_#_need,need new_#_new laptop,need,need new laptop,need new_#_microsoftedu new topic_#_new one_#_new computer,need new computer,need,need new_#_new year,beam,happy_#_need new,laptop,really need,need new laptop,need_#_beam,year,happy new,happy new year,new year_#_xboxsupport,wont let,account,let buy_#_want new laptop,want
+clusterId:15	visualstudio,visualstudio mac_#_birthday,surface pro_#_dmd you,xboxsupport,deez nut_#_feature pro_#_cd drive,file_#_nba 2k16,2k16,play_#_microsoft,surface pro_#_feggit smh_#_nba 2k16,2k16,xboxsupport purchased,didnt,vc nba,purchased,vc nba 2k16,came_#_visualstudio mac_#_xboxsupport,deluxe,deluxe edition_#_really,surface pro_#_visualstudio cc_#_picture,office mac_#_slows,surface pro
+clusterId:16	updated_#_account im,microsofthelps,hacked,email_#_m account_#_update_#_current_#_microsoft,xboxsupport,microsoft account_#_update look_#_date_#_date,phone date_#_share,xboxsupport,game share_#_help,account,please,skypesupport,skype account_#_skype date_#_version_#_share_#_release date_#_old account_#_account_#_main,main account_#_new update_#_upgraded,best,best version_#_lumiahelp,apps,update,date,apps date_#_latest_#_child account_#_account,access account
+clusterId:17	xboxsupport,xbox,xbox one,adapter
+clusterId:18	better
+clusterId:19	message_#_reply_#_address_#_sending_#_hello_#_send_#_thx reply_#_email
+clusterId:20	gamertag,xbox,change gamertag,xboxsupport,xboxsupport hello,hello
+clusterId:21	xboxsupport,tell,link,u send_#_mail app,mail_#_shirt,got email_#_mail,email,outlook,send email
+clusterId:23	account,email,microsoft
+clusterId:25	xboxsupport,please,xboxsupport hi_#_xboxsupport hi
+clusterId:26	didnt know_#_think_#_sure_#_really_#_kinda want_#_u know_#_thought_#_know
+clusterId:28	xbox,xboxsupport,know,help
+clusterId:29	xbox omg
+clusterId:30	xboxsupport ive_#_hockeyapp oh_#_didnt work,didnt_#_ive tried,xboxsupport_#_xboxsupport ok_#_xboxsupport3 oh_#_xboxsupport,xboxsupport sorry_#_ive tried,tried_#_yeah,skype yeah_#_yes thing httpstco0cra78nyjy_#_ive already_#_ive finally achieved_#_ok thanks,xboxsupport ok thanks,xboxsupport,xboxsupport ok_#_xboxsupport,work,xboxsupport nevermind_#_yes xbox,xbox yes
+clusterId:31	crash,like,really,even,dont,call,friend,want
+clusterId:33	money,back,account
+clusterId:34	right stick,right,xboxsupport,drift,controller_#_right,fixed right_#_right now,going,xbox
+clusterId:35	sign,xboxsupport,cant sign,sign xbox,live,cant,xbox live,xboxsupport cant sign,xboxsupport cant,sign xbox live_#_xboxsupport,xbox repair,xbox,sending xbox repair,sending xbox,sending_#_xbox one,xboxsupport,working,kinect,one mic,doesnt,xbox one mic,tried_#_xbox,saying,xboxsupport,xboxsupport xbox one,keep,long,wont let,keep saying,reason,let sign,xboxsupport xbox,sign,wont,xbox one,wont let sign,took long_#_xbox,xboxsupport,green xbox screen,xbox screen,green xbox,screen hour,hour,green_#_advanced,gear war,advanced warfare,gear,warfare,xboxsupport,still,one gear war,get xbox one,one gear,work,get xbox,xbox one_#_xbox,xbox one,background,background xbox one,port,usb port,file,background xbox,multiple_#_controller,xbox one,xboxsupport,xbox one controller,controller pc,connect,plug,one controller,one controller pc,connected xbox,connect xbox one,connect xbox,connected_#_xbox,xboxsupport xbox,nba 2k15,game,xboxsupport xbox one,2k15,play,xbox one_#_xboxsupport,freezing,xboxsupport xbox keep,xbox keep freezing,keep freezing,xbox keep,xboxsupport xbox,keep,xbox one
+clusterId:38	still downloading wubbbishhh,upgrade window,it still,downloading wubbbishhh,yes 8hrs later,oh yes 8hrs,would,wubbbishhh,xboxsupport,it still downloading,window oh,window,8hrs later,still downloading,like upgrade window,would like,downloading,still,yes 8hrs,like upgrade,download speed fenrother,upgrade,window oh yes,would like upgrade,8hrs,like,upgrade window oh,downloading wubbbishhh download speed,later,wubbbishhh download speed,fenrother,oh yes
+clusterId:40	gamer tag,gamer,god mode,mode_#_fan top notetaking
+clusterId:41	xboxsupport,xbox xboxsupport,xbl xbox_#_black,black ops,xboxsupport,xbox one,ops xbox one,black ops xbox,ops xbox_#_ordered,xbox one,ordered xbox_#_xbox live,live,bank account,bank,subscription,account,xbox_#_xbox gon na,company,xbox gon,gon na,xbox,bad company_#_xbox one,switch xbox,switch_#_xboxsupport,live,disconnected xbox live,getting_#_xboxsupport,watch,xbox one,watch xbox_#_live,connect,xbox live,connect xbox live,connect xbox,xboxsupport,cant,cant connect,cant connect xbox
+clusterId:42	update,show,beta,latest
+clusterId:43	needed
+clusterId:44	save_#_saved
+clusterId:45	xboxsupport,version,cant
+clusterId:47	edition,bought
+clusterId:48	night_#_today_#_tomorrow_#_evening_#_yesterday_#_tonight
+clusterId:49	post,blog post,new blog,new blog post_#_forum,xboxsupport,issue,ive posted
+clusterId:50	physical,physical copy,xboxsupport,microsoftstore
+clusterId:52	changed_#_change
+clusterId:53	play,week
+clusterId:54	gold,code,xbox,membership,xbl gold_#_xboxsupport,free,free gold_#_xboxsupport,gold,live,live gold_#_gold_#_gold,game gold_#_ring
+clusterId:56	payment option,payment,xboxsupport,another,add payment option,add payment_#_payment_#_charge_#_refund_#_charging_#_cancel_#_charged
+clusterId:57	item
+clusterId:58	happening_#_nothing happened_#_happened_#_happens
+clusterId:59	work,window,lenovo
+clusterId:60	created_#_create
+clusterId:61	xboxsupport,thank,thanks,thats it
+clusterId:62	getting,xboxsupport,getting message_#_message,getting,error message
+clusterId:63	xboxsupport,invite,game,hear,cant
+clusterId:64	xbox one_#_xbox one,xboxsupport,help_#_year,time,home,home xbox_#_xbox one,xboxsupport,headset,controller_#_membership,dont,live,membership xbox_#_xbox,support,kicked,phone,phone xbox_#_switching,switching xbox_#_xbox live,xbox,xboxsupport,account_#_xbox long,long,banned,xbox_#_xbox yall,yall_#_xbox one,xboxsupport
+clusterId:66	surfacesupport,know,resetting
+clusterId:67	live,xboxsupport,xbox live,connect,cant
+clusterId:68	fathersday,share,msau fathersday video,video,special,power dad ha,msau fathersday,special msau,video share super,super power dad,power,special msau fathersday,fathersday video,power dad,super,dad ha,video share,share super,share super power,fathersday video share,super power_#_fathersday,share,msau fathersday video,video,special,power dad ha,super,msau fathersday,special msau,video share super,super power dad,power,special msau fathersday,fathersday video,power dad,dad ha,video share,share super,share super power,fathersday video share,super power_#_fathersday,share,msau fathersday video,video,special,power dad ha,msau fathersday,special msau,video share super,super power dad,my dad,power,share super,special msau fathersday,fathersday video,power dad,super,dad ha,video share,share super power,fathersday video share,super power
+clusterId:69	orange,orange light_#_light
+clusterId:70	watch,xbox
+clusterId:72	connection,using
+clusterId:73	microsoft
+clusterId:74	fine,internet
+clusterId:75	need,need help,xbox
+clusterId:76	delete,want,dont delete,dont want_#_want,wont,movie,look,uber,shocked,shocked want_#_want,update,know,window,dont want_#_need,hello,hello need_#_xboxsupport,want,dont want pay,want pay,dont want_#_need help,need,help_#_want add,party_#_need help,need
+clusterId:77	machine
+clusterId:78	better,overall
+clusterId:81	xboxsupport,game
+clusterId:82	profile,xboxsupport,home,home xbox,make
+clusterId:84	xboxsupport,got banned,message,unban,account,check,week
+clusterId:85	home,click,game
+clusterId:86	window,cortanasweeps,lumiaus
+clusterId:88	turning on,turning,xbox_#_turn,xbox turn
+clusterId:89	great,good
+clusterId:90	windows10
+clusterId:91	skype slow,skype_#_xboxsupport,party,party chat_#_skype app,call,skypesupport_#_chat,xboxsupport,party chat_#_skype call_#_skype date,skype date bae,date,date bae_#_sound,sound skype_#_chat,party,xboxsupport,connect party,party chat,connect party chat_#_skype new,friend_#_chat answer desk,chat,windowssupport chat answer,answer,answer desk,chat answer,windowssupport,desk,windowssupport chat_#_chat,party,party chat
+clusterId:93	game,xboxsupport,connect,cant connect,play,cant,connection
+clusterId:94	using_#_used
+clusterId:95	right
+clusterId:96	window,home
+clusterId:98	squad,xboxsupport1,lizard squad,lizard
+clusterId:99	adapter,xbox
+clusterId:101	cant,xboxsupport,cant delete,xbox
+clusterId:103	xbox,internet
+clusterId:104	time try download,xboxsupport,xboxsupport im,every time try,time,try download,im getting,every,getting,every time,time try_#_xbox,xbox cant wait_#_cant,cant wait start,beam,wait start streaming,streaming_#_xboxsupport1,ill try tonight,ill try,try tonight_#_wait,soon,cant,cant wait
+clusterId:106	arkham,knight,play,arkham knight,batman arkham,batman,batman arkham knight_#_buy halo,preview,buy halo war,halo,xbox,halo war_#_online,play,gta online,fifa,play gta online,play gta_#_black,black ops_#_gear war,gear,xbox one,raider,tomb,tomb raider_#_gear war,xbox,xbox gear,xbox gear war_#_gear war,gear,warfare_#_black,xbox,xboxsupport,black ops
+clusterId:108	thanks,thanks making,available,making
+clusterId:109	wait_#_waiting
+clusterId:110	gorilla
+clusterId:112	forza horizon,horizon,xboxsupport_#_forza horizon,xboxsupport,horizon
+clusterId:113	exe file,file
+clusterId:114	like,think,really think_#_know im,think,xboxsupport,really,sure_#_know,sure,let know_#_think,window,didnt,didnt think_#_know,dont know_#_come,come say
+clusterId:115	stream,today,like,awesome stream,love,today beam,awesome
+clusterId:116	lumiahelp,lumia
+clusterId:117	feeling_#_feel like,like,really,want_#_feel_#_feel like,like
+clusterId:119	room,router
+clusterId:120	people,bought,bought ps4,time
+clusterId:121	woot,boyfriend
+clusterId:123	thanks,msftbusiness,thank,thank microsoft,emergingtechsummit
+clusterId:124	pride ferocious pace
+clusterId:125	type_#_type cover,cover,surface,light
+clusterId:126	dinosaur
+clusterId:127	xboxsupport,hear,party chat,chat,cant,friend
+clusterId:128	office365,preview,microsoft,office preview_#_preview program,preview,xboxsupport_#_preview program,preview
+clusterId:129	hey guy_#_love,love guy_#_xboxsupport guy_#_man work,work
+clusterId:130	code,text,change,need
+clusterId:132	updated,install updated_#_update,xboxsupport,disk,drive,preview update_#_update,window,computer,window update_#_update,window,window update_#_dashboard,update,console,game,dashboard update_#_wunderlist please update_#_update operating,window,operating,operating system
+clusterId:133	still
+clusterId:134	let know,youre
+clusterId:135	free,not download,xboxsupport,can not download,can not
+clusterId:136	window,know
+clusterId:137	thanks,update,working fine,working,installing,build
+clusterId:138	xboxsupport,send
+clusterId:139	game,going,hour,xbox one,time
+clusterId:140	please,error code,lumia,error
+clusterId:141	play,xboxsupport,downloaded
+clusterId:142	super_#_fuck_#_released_#_omg omg_#_cod aw_#_launch_#_story_#_fucking_#_loving_#_sexy_#_release_#_news_#_beast_#_banging_#_shes
+clusterId:143	drive,xboxsupport
+clusterId:144	died
+clusterId:146	rock
+clusterId:147	hate_#_hate window,window
+clusterId:148	minecraft
+clusterId:150	still,windowssupport,cant,still sound,tried
+clusterId:151	preorder,refund
+clusterId:152	gabeaul much
+clusterId:153	live,xbox live,xboxsupport,sign
+clusterId:155	thank reaching,u loop,lumiahelp,additional assistance issue,allow u,loop lumiahelp,u loop lumiahelp,thank reaching out,thank,loop lumiahelp additional assistance,issue,allow u loop,allow,reaching,lumiahelp additional assistance,reaching out allow,out allow,out allow u,loop,reaching out
+clusterId:156	preordered,thanks,email
+clusterId:157	load,freeze
+clusterId:158	analog stick,seems,stick,left analog,left_#_one digital_#_right,xboxsupport,right analog
+clusterId:160	apparently,apparently dont know,visualstudio,dont know,apparently dont,know_#_doesnt,work,doesnt work,xboxsupport doesnt,xboxsupport doesnt work,thanks,support,reset_#_xboxsupport,account,microsoft,forgot,account password,wont work,email,password wont,wont,work,password wont work
+clusterId:161	loyal,user
+clusterId:163	cant
+clusterId:164	data,keep
+clusterId:165	excited halo,excited halo war,halo war,excited
+clusterId:166	use new
+clusterId:169	enough
+clusterId:170	xboxsupport,work,app xbox,beam,apps,apps work,xbox one
+clusterId:172	responding
+clusterId:173	apps,afraid
+clusterId:174	windowssupport,running
+clusterId:177	xboxsupport,released,platform,game,xboxsupport xbox,release,since,xbox one
+clusterId:178	problem,microsoft
+clusterId:181	xboxsupport,game online,play game online,online,play,game,play game_#_play xbox,play_#_game chat,xboxsupport,party,friend,party chat,game_#_play,play game_#_saying,saying im,xboxsupport,trying,play witcher,witcher,trying play_#_game xbox,xbox,xbox one_#_well,well played_#_code,xboxsupport,xboxsupport game code,xboxsupport game,game code_#_playing online,playing
+clusterId:183	available
+clusterId:188	kinect,adapter
+clusterId:189	xbox,bought,subscription,gold subscription,xboxsupport
+clusterId:193	xboxsupport2,nope
+clusterId:194	account,xboxsupport,over over,live account,cant
+clusterId:196	nat type open,type,nat type,type open_#_open new,open_#_open it,everytime
+clusterId:197	forward physical copy,second,forward physical,physical,killer instinct,copy,killer instinct buy,physical copy,looking,physical copy second,forward,season killer,copy second season,season,killer,second season killer,looking forward physical,instinct,looking forward,second season,season killer instinct,instinct buy,copy second_#_forward,looking,looking forward,looking forward game,good,game,forward game,look
+clusterId:198	gold,xboxsupport,purchase,xbox one
+clusterId:199	mail,issue,outlook,done,problem
+clusterId:200	build,landline,lumiahelp,update
+clusterId:201	photo,send,ill send photo,send photo,ill send,work
+clusterId:203	xboxsupport,account locked,locked,locked making purchase,locked making,account locked making,making purchase,making,purchase
+clusterId:204	spam
+clusterId:206	xboxsupport,preview,error code,error
+clusterId:207	xboxsupport yes,submitted
+clusterId:208	chat,xboxsupport
+clusterId:210	best,microsoft
+clusterId:211	send,message,notification,phone
+clusterId:212	need,code,help,xboxsupport,tell,cant
+clusterId:213	dishonored,game
+clusterId:214	xbox,xboxsupport,stream
+clusterId:217	seems,redownloaded,deleted,redownloaded profile,profile
+clusterId:218	xboxsupport,cable,ethernet cable,ethernet
+clusterId:220	digitally_#_digital
+clusterId:221	connect,xbox,problem
+clusterId:224	wont,xboxsupport,xboxsupport wont,wont let_#_let know,know thanks,let know thanks,thanks,check let,check let know,check,know_#_wont,xbox,xboxsupport,wont let,let download,wont let download,update_#_uninstall,xboxsupport,wont let,let uninstall,xboxsupport wont,wont let uninstall,xboxsupport wont let
+clusterId:225	know,problem
+clusterId:226	error,insufficient
+clusterId:227	customer,customer service,service
+clusterId:228	cortana,send,phone,lumiahelp
+clusterId:230	install,time,restart,restart install,worked
+clusterId:231	forward,looking forward_#_forward
+clusterId:233	pre order,order,cant,xboxsupport cant,cant pre order,cant pre,xboxsupport cant pre_#_pre order,order_#_pre order,order,thats,xboxsupport4,thats good,didnt,good,xboxsupport4 ok
+clusterId:234	level,could
+clusterId:235	xboxsupport,tried
+clusterId:236	feedback_#_response
+clusterId:239	music,xboxsupport,background,pandora background music,listen,pandora background,background music,playing
+clusterId:240	twitch,think
+clusterId:241	window,pro license,window pro license,window pro,microsoft
+clusterId:242	error,xboxsupport,error code,code error,thing
+clusterId:243	appeal
+clusterId:245	feature
+clusterId:247	good,good o,like window,like
+clusterId:248	xboxsupport,elite controller,replacement,back,broken,elite
+clusterId:250	point
+clusterId:253	play,game
+clusterId:254	unlock,still,locked
+clusterId:256	update,window,doesnt,failed,apps,work
+clusterId:257	drag drop,drop sway look,drop sway,look made,made,look,drop
+clusterId:259	xboxsupport,mode
+clusterId:260	india,cortana
+clusterId:261	mail apps,mail
+clusterId:262	xboxsupport,please,help please
+clusterId:263	master,master chief,chief collection,master chief collection,collection,halo,xbox,halo master,halo master chief_#_halo,game,master chief collection,collection
+clusterId:264	please,u please
+clusterId:265	xboxsupport,xboxsupport dont_#_care,care dont
+clusterId:266	need,need new laptop,new laptop,need new_#_need,new laptop,need new laptop,need new
+clusterId:267	real
+clusterId:268	come join,join u,come
+clusterId:269	xboxsupport,transfer,game
+clusterId:270	xboxsupport,video,game dvr,using game dvr,game,record,using game
+clusterId:271	know,let know_#_know,bigger,like,dont,dont know
+clusterId:272	free,student
+clusterId:273	literally
+clusterId:275	issue,netflix,error,problem,didnt,update
+clusterId:276	content
+clusterId:277	the ad crackle
+clusterId:278	didnt,xboxsupport,didnt help_#_xboxsupport,doesnt,doesnt help
+clusterId:279	long
+clusterId:280	planning,ready
+clusterId:281	xbox,know,let know
+clusterId:282	xboxsupport3 purchased
+clusterId:283	like,attribution
+clusterId:284	disc
+clusterId:285	gear
+clusterId:286	time,havent
+clusterId:288	live,xbox live,xboxsupport,xboxsupport xbox live,live down,xbox live down,xboxsupport xbox
+clusterId:289	play,xboxsupport,gta online,xbox,play online_#_xboxsupport,play,play online
+clusterId:290	really,really need
+clusterId:291	xboxsupport,battery
+clusterId:292	surface,surface pro,microsoft
+clusterId:293	xboxsupport,video
+clusterId:294	xboxsupport,let download,know
+clusterId:295	lumia,mob photo,microsofthelps,saved thumb extension,lumia win mob,win mob,thumb extension,thumb,photo,win mob photo,saved thumb,viewable onedrive,onedrive,microsofthelps lumia win,viewable,extension,lumia win,microsofthelps lumia
+clusterId:296	thank,thanks
+clusterId:297	surface pro,surfacesupport,week,started,pro started,surface pro started_#_surface pro
+clusterId:298	need,xboxsupport,need help
+clusterId:299	didnt work,didnt,xboxsupport_#_xboxsupport,xboxsupport didnt
+clusterId:300	session,msignite
+clusterId:301	microsoft,microsoft surface,keep
+clusterId:302	xbox,warranty,xboxsupport,xbox one controller,one controller,xbox one
+clusterId:304	microsoft,rang
+clusterId:305	xboxsupport,game,cant
+clusterId:306	error,scan,file
+clusterId:307	need,drive,hard drive_#_drive_#_usb drive
+clusterId:308	soon,fixed,able
+clusterId:309	apps,lumiahelp,window,like,please,lumianigeria,lumianigeria please
+clusterId:312	attempt
+clusterId:313	solution
+clusterId:314	team,thanks
+clusterId:317	buy new,new xbox
+clusterId:319	destiny,expansion,xbox,xbox one
+clusterId:320	activation
+clusterId:325	profile,game
+clusterId:326	reset,xboxsupport,still,factory
+clusterId:327	msonenote,onenote
+clusterId:328	low ping
+clusterId:330	worksheet
+clusterId:331	package
+clusterId:332	xbox,turn
+clusterId:333	microsoftband,year
+clusterId:334	preordered,preordered surface,surface preordered surface,arrive,surface preordered
+clusterId:336	power,xboxsupport power,power cycle
+clusterId:337	already,option,multiple,tried,wallpaper
+clusterId:338	triple
+clusterId:340	emojis,happy
+clusterId:341	support,msonenote,would
+clusterId:344	xboxsupport,unban me
+clusterId:345	skype,skypesupport,sign skype,password
+clusterId:346	onedrive
+clusterId:347	xboxsupport,xboxsupport report
+clusterId:350	false,xboxsupport,on off on,off on,true false,on off,true
+clusterId:351	thanks,today,session today_#_tomorrow cant_#_xboxsupport,send,today,birthday today
+clusterId:352	question,answer
+clusterId:353	xboxsupport,cant,notification,xbox
+clusterId:354	gaming,xboxsupport,xbox one
+clusterId:356	miss,xbox one
+clusterId:357	lumiahelp,reset phone,reset
+clusterId:358	phone,tinder
+clusterId:359	xboxsupport,party chat,chat
+clusterId:361	know,want,dont know,microsoft,name
+clusterId:362	costly
+clusterId:363	teacher
+clusterId:364	beta
+clusterId:366	typescript,product,know
+clusterId:367	first,buy first
+clusterId:368	dell_#_laptop_#_battery_#_notebook
+clusterId:369	gaming_#_game,play
+clusterId:371	window,bing
+clusterId:372	excited
+clusterId:374	installed,like,windowssupport
+clusterId:377	visualstudio,open,home,store
+clusterId:378	bing
+clusterId:379	profile,deleted
+clusterId:381	tried
+clusterId:384	time,error message,error
+clusterId:386	window,error
+clusterId:391	myth legend majornelson
+clusterId:393	skypeinmedia
+clusterId:394	release,game,told,xboxsupport told,release date,week,date
+clusterId:397	mslearning,dynamic,microsoft dynamic
+clusterId:398	xbox,like,always,friend,xbox one
+clusterId:399	xboxsupport,preview program,program,preview,forum,xbox,xbox one
+clusterId:401	xboxsupport,video,look,list,achievement list,ever,video game,achievement
+clusterId:402	downloading,xboxsupport hi,xbox
+clusterId:403	stupid,people
+clusterId:404	xboxsupport,xbox,play,live,xbox live,playing,saying,help,xboxsupport im,trouble,it saying,problem
+clusterId:405	today,yesterday
+clusterId:406	player,watch
+clusterId:407	program
+clusterId:409	visualstudio
+clusterId:411	said
+clusterId:412	window,lumia
+clusterId:413	visualstudio,later,switch
+clusterId:414	thanks,window,know
+clusterId:415	help,page,contact
+clusterId:416	bad idea_#_thing_#_idea
+clusterId:418	data,wont,sync,wont sync_#_sync
+clusterId:419	blue,blue screen,screen,restart
+clusterId:420	check findyourpark,celebrate year natlparkservice,homepage photo contest,voted,homepage,natlparkservice check,natlparkservice,celebrate,voted bing,contest celebrate,homepage photo,year,photo contest,voted bing homepage,year natlparkservice check,bing homepage photo,contest celebrate year,photo contest celebrate,celebrate year,natlparkservice check findyourpark,check,year natlparkservice,contest,findyourpark,bing homepage,bing
+clusterId:422	computer,sound
+clusterId:424	xboxsupport,please
+clusterId:425	window,great
+clusterId:426	increased
+clusterId:428	xboxsupport,signed
+clusterId:430	xboxsupport,bought,told,warranty,started
+clusterId:431	made
+clusterId:433	reply,xboxsupport,still,still waiting,waiting,xbox support,xbox
+clusterId:434	previous
+clusterId:435	email,address
+clusterId:436	office
+clusterId:437	like,replaced
+clusterId:438	skypesupport,close,make,call,mobile
+clusterId:440	fuck xbox
+clusterId:441	love,believe
+clusterId:443	cant,anyone,xbox
+clusterId:445	xboxsupport,basic,watched
+clusterId:446	xbox_#_kinect
+clusterId:447	fine,profile
+clusterId:449	fine,live,profile,xboxsupport xbox,xbox,connection
+clusterId:450	xboxsupport,banned,xboxsupport xbox,xbox
+clusterId:451	phone,phone number
+clusterId:452	crypticerrormessages whatdoesitmean visualstudio2017
+clusterId:454	collection
+clusterId:456	didnt,xboxsupport
+clusterId:457	bought,purchased
+clusterId:458	enter
+clusterId:460	xboxsupport it medion
+clusterId:464	visualstudio,core,httpstcoym49shd4d9
+clusterId:465	email,account
+clusterId:466	xboxsupport,live
+clusterId:469	error,code,error code_#_via code_#_security,security code_#_code,beta code_#_code_#_xbox,xboxsupport,live,error,error code
+clusterId:472	people,lot people,xboxsupport ive,experiencing
+clusterId:475	update,latest
+clusterId:476	xboxsupport,message
+clusterId:477	friend,friend skype,best,best friend
+clusterId:479	xboxsupport,update,install,cant
+clusterId:480	skype,went,skype went
+clusterId:481	thank,love,happy
+clusterId:482	subscription
+clusterId:483	xboxsupport,sign
+clusterId:485	help,xboxsupport,need help,need
+clusterId:486	lumia,available,microsoftindia
+clusterId:487	xboxsupport,store,xbox one
+clusterId:488	driver,date,time
+clusterId:489	update,really
+clusterId:491	total
+clusterId:492	comment
+clusterId:493	going,issue,setting
+clusterId:494	status
+clusterId:495	xboxsupport,destiny
+clusterId:496	connecting,xboxsupport,xbox live,connecting xbox,live,problem
+clusterId:499	gamestop_#_preorder_#_preordered
+clusterId:500	cant,live,cant use,xbox live,come cant,xboxsupport come,xboxsupport come cant,come,xbox,come cant use
+clusterId:501	version,bought,pack
+clusterId:502	approx
+clusterId:503	subtasks,would,wunderlist
+clusterId:505	office,please,enter
+clusterId:506	built_#_build
+clusterId:508	xboxsupport,video,microsoft
+clusterId:510	xbox,plug,power,plugged
+clusterId:511	time,know,yammer
+clusterId:513	packet,packet loss,xboxsupport
+clusterId:515	help,invite
+clusterId:516	windowssupport,clean boot,clean
+clusterId:517	happy,skypeclassroom,love,aidanedu
+clusterId:518	problem,xboxsupport,xboxsupport im,im issue,since
+clusterId:519	xboxsupport,party chat,always,network,open,chat,time,network setting,every,moderate,every time,type,xboxsupport every time,nat type,setting,xboxsupport every
+clusterId:520	still,xbox preview,preview,friend,invited,xbox
+clusterId:521	bofa,xboxsupport1,xboxsupport1 xbox,put bofa
+clusterId:524	session,msignite,content
+clusterId:525	people,cant,cant hear_#_hear,cant,xboxsupport,cant hear,party hear_#_dont,dont hear,xboxsupport1,sound,voice,talking,hear sound
+clusterId:527	window,controller
+clusterId:528	get plaque
+clusterId:529	file,file explorer,windowssupport
+clusterId:530	xboxsupport,router
+clusterId:531	looking_#_look
+clusterId:532	xboxsupport,alright thanks,alright
+clusterId:533	dashboard
+clusterId:534	jax performance
+clusterId:536	help,help makeithappen,makeithappen surprise you,want,makeithappen,please follow u,surprise,u dm you,want help makeithappen,please follow u dm,want help,you please follow,help makeithappen surprise,dm you,surprise you please follow,surprise you,makeithappen surprise
+clusterId:538	window,need,help,need help,windowssupport
+clusterId:539	video,gorgeous
+clusterId:542	language,region
+clusterId:543	play,gold,online,game,xbox
+clusterId:544	tried,windowssupport
+clusterId:545	window,windowssupport
+clusterId:546	lumiaus,connects
+clusterId:548	youtube app,youtube,audio
+clusterId:549	developer
+clusterId:550	window,nice
+clusterId:553	xboxsupport,download,please help,please,game,xbox
+clusterId:554	xboxsupport,preorder,cant
+clusterId:555	tech
+clusterId:556	xboxsupport got,card,credit,credit card
+clusterId:557	past,live,xbox live,xbox
+clusterId:558	black ops,xboxsupport,compatible,xboxsupport black ops,backwards compatible,xboxsupport black,backwards
+clusterId:559	much longer,much
+clusterId:560	banned
+clusterId:561	dallas tx
+clusterId:562	xboxsupport,home,error code,xbox,error
+clusterId:563	stick
+clusterId:565	xboxsupport,party,every,join,time,xbox trying,trying,join party,xbox one
+clusterId:566	load
+clusterId:567	dual sim,lumia,lumia dual,lumianigeria,lumia dual sim,lumia xl
+clusterId:568	xboxsupport,play,game,xbox store,game xbox store,store,game xbox,xbox one
+clusterId:569	default
+clusterId:571	thats,question
+clusterId:572	haha,haha maybe,maybe,could
+clusterId:573	laptop,want
+clusterId:574	sorted,restarted
+clusterId:575	mysteryskype
+clusterId:576	cant,xboxsupport,people,cant talk,even,problem,hear people,talk
+clusterId:577	xboxsupport,problem
+clusterId:578	xboxsupport,xbox one,dashboard
+clusterId:579	window,action
+clusterId:580	adapter,xboxsupport,headset,wire headset adapter,headset adapter,wire headset_#_xboxsupport,new headset
+clusterId:581	getting suspended,account,xbox,im getting,suspended,charged_#_getting back you
+clusterId:582	email,outlook,skypesupport,microsoft outlook,phone
+clusterId:583	forgot,question,forgot password_#_change,need,change password_#_password
+clusterId:585	best
+clusterId:586	ok thank,ok thank you,thank you
+clusterId:587	beam,default,legacy
+clusterId:589	lumiaus
+clusterId:591	update,xboxsupport,xbox
+clusterId:592	twitter app,feedback_#_hate google doc,google doc,hate google,hate
+clusterId:593	window,option,install
+clusterId:594	need,cant
+clusterId:595	percent,instead
+clusterId:596	xboxsupport,currency,friend,account
+clusterId:597	xboxsupport,xbox one,xbox,disc
+clusterId:598	window,win10,installed window,upgraded,later
+clusterId:602	left
+clusterId:603	pretty,microsoft,book,microsoft surface,surface book
+clusterId:604	xbox,chat,party,hear
+clusterId:605	fixed,reply
+clusterId:606	project_#_completed
+clusterId:607	microsoftband
+clusterId:608	xbox,dont,buying,something,make
+clusterId:609	reboot,update
+clusterId:611	account,xboxsupport,hacked,u help,please
+clusterId:612	snippet
+clusterId:613	powerpoint
+clusterId:614	real mvp
+clusterId:616	xboxsupport,xboxsupport specific_#_xbox,xbox related
+clusterId:617	xboxsupport,able,email,invite,accept
+clusterId:618	smartglass
+clusterId:619	group
+clusterId:620	question,xboxsupport,question help,answer
+clusterId:621	keep,new surface,surfacesupport
+clusterId:622	watch halo,free req pack,req pack,watch,free,free req,halo,pack
+clusterId:624	invite friend,get invite,friend
+clusterId:625	account,address
+clusterId:628	beautiful
+clusterId:629	network,console,usage,would,gaming
+clusterId:630	slow,cant
+clusterId:633	xboxsupport,reason
+clusterId:634	still,found,shopping bag,shopping
+clusterId:635	issue,live,xboxsupport,record,xbox live,im issue,playing
+clusterId:636	battery,help,surfacesupport
+clusterId:637	twitch,stream,community
+clusterId:638	issue,installing
+clusterId:639	server,help,message,working,email,iphone
+clusterId:641	look forward,look_#_looking,xboxsupport1,thanks looking
+clusterId:642	believe
+clusterId:643	enjoy_#_join_#_interested_#_invite
+clusterId:644	xboxsupport,window
+clusterId:645	nigga
+clusterId:646	really tho
+clusterId:648	mslearning,moscertified,certification,busedu,certiport,microsoftedu,mslearning busedu certified,certiport mslearning busedu,yorkdukes,congrats,certified microsoftedu moscertified,access certification,busedu certified,mslearning busedu,certification yorkdukes certiport,yorkdukes certiport mslearning,certiport mslearning,passing access certification,microsoftedu moscertified,busedu certified microsoftedu,access certification yorkdukes,passing,certified,certified microsoftedu,passing access,yorkdukes certiport,certification yorkdukes
+clusterId:649	console
+clusterId:650	disc,disk
+clusterId:651	window,windowssupport,great,cant
+clusterId:653	phone_#_skype_#_chat
+clusterId:655	resharper
+clusterId:657	cant,cant hear,party,reset,already,hear friend party,cant hear friend,xboxsupport3,friend,hear friend,friend party,xbox
+clusterId:658	wrong_#_correct
+clusterId:660	xboxsupport,trying,error
+clusterId:661	please,xboxsupport,money,change,would,balance
+clusterId:663	update,xbox,since,constantly,update xbox,freezing
+clusterId:664	boot safe,safe mode,safe
+clusterId:665	mode,safe mode,windowssupport,cant,boot,window,trying,time
+clusterId:666	xboxsupport,post forum,post
+clusterId:667	phone,lumia xl,lumiahelp
+clusterId:668	time,later
+clusterId:669	skypeclassroom
+clusterId:670	took,came
+clusterId:671	laptop,window,windowssupport,support
+clusterId:672	xboxsupport,xboxsupport hey,notification,dont,friend,party,dont get,getting notification,im getting notification,message,im getting,getting,hey im,xboxsupport hey im,join,also,join party
+clusterId:674	luck
+clusterId:677	halo
+clusterId:681	thoroughly enjoyed bett2017
+clusterId:682	time,waste time,trying
+clusterId:684	detail,website,change,name
+clusterId:686	hour code,hour,class_#_hour hour,thats_#_hour_#_minute
+clusterId:688	perfectly
+clusterId:690	keep,xboxsupport,description,beam,edit,edit channel,oneguide
+clusterId:692	xboxsupport,load xbox,wont,xbox
+clusterId:693	doom,window,playing
+clusterId:694	step_#_process
+clusterId:695	info,account
+clusterId:697	option,auto renewal,auto,account
+clusterId:699	launch,xboxsupport
+clusterId:700	adobe
+clusterId:701	window window mobile,sd card tackle,window mobile,updated window,refuse move sd,move,sd card,refuse move,window mobile apps,mobile apps refuse,apps refuse,mobile apps,move sd,tackle this,apps,apps refuse move,updated window window,updated,move sd card,card tackle this,tackle,card,refuse,mobile,window window,card tackle
+clusterId:703	xboxsupport,order,right,help,xboxsupport id,able help,cancel pre,id like,able,cancel pre order,like cancel,id like cancel,pre order,xboxsupport id like,like
+clusterId:704	xboxsupport,want,change gt_#_change gt
+clusterId:705	latest,update,phone,latest software,software
+clusterId:706	seems bit
+clusterId:707	skypesupport,trouble,problem
+clusterId:709	xboxsupport,better
+clusterId:711	hear
+clusterId:712	fifa,xboxsupport,xbox one
+clusterId:713	nearest
+clusterId:715	crazy
+clusterId:717	life,microsoft
+clusterId:719	play,xbox one,xboxsupport
+clusterId:722	bsod
+clusterId:723	stream,beam,xbox one,xboxsupport
+clusterId:724	window,tool,lumia,recovery tool_#_tool,recovery tool
+clusterId:725	im afraid
+clusterId:726	nicz0r
+clusterId:729	xboxsupport,music
+clusterId:730	fully
+clusterId:731	offer
+clusterId:732	msignite,year ago today,today,ago today,year ago,microsoft
+clusterId:733	access,phone,trying,wrong
+clusterId:734	happy birthday_#_birthday_#_party chat,communication,chat,party,time_#_party
+clusterId:737	xboxsupport sorry,xboxsupport
+clusterId:738	xboxsupport,xboxsupport thanks,thanks lot
+clusterId:739	gamertag,change
+clusterId:741	troubleshooter
+clusterId:742	someday
+clusterId:745	installed,ever,update
+clusterId:746	month,gold,subscription,account,error,charged
+clusterId:747	update,march update,march
+clusterId:749	help,access,access account,can not
+clusterId:751	xbox,xboxsupport,need
+clusterId:752	could
+clusterId:757	visualstudio,nope
+clusterId:759	apps,window,open apps,windowssupport
+clusterId:760	error,error code,xboxsupport,help
+clusterId:761	explorer
+clusterId:763	join,friend
+clusterId:766	cant,like,button,xbox
+clusterId:767	working,work,help,xboxsupport,microsoft
+clusterId:768	preview
+clusterId:769	ur end
+clusterId:771	info,cant
+clusterId:772	playing,xbox,work
+clusterId:773	replied,xboxsupport
+clusterId:774	want,need
+clusterId:775	xbox,xboxsupport
+clusterId:778	connect,xbox
+clusterId:779	learning
+clusterId:782	xboxsupport,even,msdn,bingads
+clusterId:783	friday try
+clusterId:784	facing problem,installing,error,problem_#_facing issue related
+clusterId:785	play,account
+clusterId:786	monitor
+clusterId:787	lumiahelp,cant
+clusterId:788	forza,xbox
+clusterId:789	code,xboxsupport,whats,live,xbox live,whats code,update
+clusterId:790	team,continue,team xbox,xbox one
+clusterId:791	microsoft,45gb
+clusterId:793	xbox,game,signed,profile
+clusterId:795	microsoft,lumiahelp,availability,issue availability,microsoft device acknowledges,availability lumia,issue,device acknowledges,device acknowledges issue,present,issue availability lumia,acknowledges issue,acknowledges issue availability,microsoft device,device,acknowledges
+clusterId:796	credit,credit card,account,xboxsupport,xbox
+clusterId:799	xboxsupport,snap,error
+clusterId:800	update,error
+clusterId:801	thanks,band,xbox,fitness,great,microsoft
+clusterId:802	free,xboxsupport,free trail,trail,purchase,time
+clusterId:804	constantly,window,update
+clusterId:806	thanks,visualstudio,extension
+clusterId:809	trying,trying register_#_number,serial,serial number,type,try register
+clusterId:810	xboxsupport,server
+clusterId:811	getting,xboxsupport,step,getting error,tried
+clusterId:812	middle
+clusterId:814	year,skypeclassroom
+clusterId:816	subscription,back
+clusterId:817	error,code,error code,need help,need
+clusterId:819	xboxsupport,like,kinect see
+clusterId:820	xboxsupport,full,lumiahelp,sure
+clusterId:824	hard drive,hard,storage_#_hard drive,use hard,use hard drive,drive,xbox
+clusterId:825	skypesupport,skype,cant,account
+clusterId:828	send,email,step,screen asks,asks
+clusterId:829	million
+clusterId:830	worst,ever
+clusterId:831	update,new update,every,open
+clusterId:832	sign,email,password
+clusterId:833	good,window,xboxsupport
+clusterId:834	xboxsupport,netflix
+clusterId:835	easier
+clusterId:836	gamertag
+clusterId:837	xbox xboxsupport,hour,xbox
+clusterId:839	xbox,xboxsupport,game,gold
+clusterId:842	xboxsupport,cable
+clusterId:843	window,panel,control panel
+clusterId:845	back,camera,back camera,lumiahelp
+clusterId:846	show,year,would
+clusterId:848	banned,got banned,xboxsupport,said,xboxsupport2
+clusterId:849	cant,email
+clusterId:851	status,getting
+clusterId:852	update,window,windowssupport
+clusterId:854	xboxsupport,waiting,delay,shouldnt
+clusterId:855	xboxsupport,expansion
+clusterId:856	using,using mobile,mobile data,using mobile data,mobile
+clusterId:858	yesterday,window,update got yesterday,morning,past,update got,got yesterday
+clusterId:859	version,install
+clusterId:860	sway,homepage,check today,check today homepage,today homepage bing,today,today homepage,homepage bing,bing
+clusterId:862	xboxsupport,thank
+clusterId:864	right,left
+clusterId:867	sunday,play xbox,play
+clusterId:868	nice
+clusterId:869	online,issue
+clusterId:870	verified
+clusterId:872	mile
+clusterId:873	please,message
+clusterId:875	skypeathon
+clusterId:876	keyboard
+clusterId:877	xboxsupport,live,able use_#_use skype,account,use account,cant,skype,skypesupport_#_used,best,ive used_#_still,using,im using
+clusterId:878	error,visualstudio,keep getting error,getting,keep,keep getting,getting error_#_error,apps,800703ee,give error_#_reset,error,hard,hard reset,got error_#_error message,message,error_#_error code,dashboard,error_#_xboxsupport,game,play,getting,getting error_#_xboxsupport,xbox,getting,getting error_#_getting,getting error_#_give,still,give error message,still give,still give error message_#_xboxsupport,redeeming,getting,getting error redeeming,error redeeming,error,getting error
+clusterId:880	xboxsupport,thanks link,thanks
+clusterId:881	schedule nightly
+clusterId:882	turn,xboxsupport,kinect
+clusterId:883	microsoft,window
+clusterId:884	error,xboxsupport,connect,trying,getting,xbox one
+clusterId:887	want,xboxsupport,purchased,want refund,didnt want,didnt
+clusterId:889	disabled
+clusterId:892	already
+clusterId:893	thank,skype thank,much,thank much
+clusterId:894	preorder,option,tried
+clusterId:895	support,microsoft
+clusterId:896	were back open,httpstcoxjodrwh5k1 were,overnight httpstcoxjodrwh5k1 were,httpstcoxjodrwh5k1,closed,httpstcoxjodrwh5k1 were back open,overnight httpstcoxjodrwh5k1,closed overnight,closed overnight httpstcoxjodrwh5k1,overnight
+clusterId:897	xboxsupport,xbox,version
+clusterId:898	beam,stream
+clusterId:899	window,setting
+clusterId:900	twitch,come,twitch xbox
+clusterId:902	pet peeve,peeve
+clusterId:903	panel powerpoint
+clusterId:905	xbox one,xboxsupport,console,new xbox one,new xbox
+clusterId:906	usain bolt smile
+clusterId:907	xbox,cant,cant join,xboxsupport,gamertag,want,want join,join party,party,cant join party,playing
+clusterId:908	came_#_finally got_#_come_#_finally_#_coming_#_soon_#_gone
+clusterId:910	msignite,life
+clusterId:911	user,account
+clusterId:912	still,still waiting
+clusterId:913	xboxsupport,party,invite,game,receive,xbox one
+clusterId:915	skyped mom
+clusterId:916	happening,keep,problem
+clusterId:917	password,email,give
+clusterId:918	console,update,xbox
+clusterId:919	xboxsupport,already
+clusterId:920	xbox one,buy ps4
+clusterId:921	download,show,xboxsupport,window,gear war,gear
+clusterId:928	apps
+clusterId:929	esta
+clusterId:930	subscription,mpnsupport,pack,action pack,microsoft
+clusterId:932	open,laptop,windowssupport,open im,gon na_#_na help,gon na help,gon na
+clusterId:934	computer,window,appreciate,windowssupport
+clusterId:937	microsoftedu
+clusterId:938	xboxsupport,button
+clusterId:939	impression
+clusterId:940	skypesupport
+clusterId:941	happy,make happy,make
+clusterId:942	connect_#_connection_#_xboxsupport,cant,cant connect
+clusterId:943	microsoft,microsofthelps,microsofthelps microsoft,support
+clusterId:944	msftdynamics
+clusterId:946	today,morning
+clusterId:948	able
+clusterId:949	download,microsoft
+clusterId:950	msignite
+clusterId:951	lumiahelp
+clusterId:953	profile
+clusterId:957	xboxsupport,banned
+clusterId:960	hello,playstation,xboxsupport
+clusterId:961	xboxsupport,window,start
+clusterId:964	calendar,outlook
+clusterId:966	many,awesome
+clusterId:968	good,thanks,skypeclassroom,today,awesome,emojis
+clusterId:969	denim,lumiaindia,denim update,update,release
+clusterId:970	ill check_#_ill try_#_ill try,cache_#_thanks ill_#_regardless ill let
+clusterId:971	xbox,xboxsupport,update xbox
+clusterId:973	care
+clusterId:977	microsoft,skypeathon,apps
+clusterId:978	fixed,xboxsupport nevermind,nevermind
+clusterId:979	original mic,original,xbox original mic,controller,xbox original
+clusterId:981	service,microsoft
+clusterId:982	account,issue
+clusterId:983	phone,lumiahelp
+clusterId:984	window,solve
+clusterId:985	xbox,xbox live,xboxsupport,access,message
+clusterId:986	worth_#_deal_#_money_#_cost_#_spend
+clusterId:987	limited
+clusterId:989	xboxsupport,receiving,receive
+clusterId:990	say can not,say can,can not
+clusterId:991	mode
+clusterId:994	internet,xbox,xbox one
+clusterId:996	person
+clusterId:997	using,skype number,using skype,number,call,cant,make,skypesupport
+clusterId:998	xboxsupport,month,year,brought,xboxsupport3
+clusterId:1000	would,use skype,like
+clusterId:1001	cable_#_wire
+clusterId:1002	gaming,problem
+clusterId:1004	xbox,xboxsupport,live,xbox live,longer,microsoft
+clusterId:1005	conference_#_event_#_session_#_meeting
+clusterId:1007	money,yall,xboxsupport,account
+clusterId:1009	screen,lumiahelp,reset
+clusterId:1010	repaired would
+clusterId:1011	couple
+clusterId:1012	connectedcars gimsswiss forzamotorsport
+clusterId:1013	help,outlook
+clusterId:1014	desperate,time
+clusterId:1015	game,installed,xbox
+clusterId:1019	sign,xboxsupport1,nothing
+clusterId:1020	possible_#_future_#_near future
+clusterId:1021	installed,visualstudio
+clusterId:1023	router,help,xboxsupport
+clusterId:1024	NOLABEL
+clusterId:1026	console,user
+clusterId:1027	xboxsupport,thank,xboxsupport thank,xboxsupport thank help,thank help_#_thanks,im good,im good thanks,good,good thanks,thanks help
+clusterId:1028	internet,live,xboxsupport,xbox live,connected internet,cant,play,connected,xboxsupport xbox,connection,internet connection
+clusterId:1030	maybe_#_actually_#_probably
+clusterId:1031	still,internet,it still,reset
+clusterId:1032	messed_#_kinda
+clusterId:1033	twitch
+clusterId:1034	office,upgraded
+clusterId:1036	nah im
+clusterId:1037	xboxsupport,xboxsupport hi,xbox one,thanks,forza horizon,horizon,forza,want
+clusterId:1038	stream,thanks
+clusterId:1039	microsofthelps,work
+clusterId:1041	iphone sorry_#_iphone
+clusterId:1042	online,word online,word
+clusterId:1043	stats,also,setting
+clusterId:1046	onedrive,project
+clusterId:1047	predictive
+clusterId:1048	personal
+clusterId:1051	sorry
+clusterId:1053	show,im signed,friend,show friend,xboxsupport
+clusterId:1054	action
+clusterId:1055	laptop,internet,update,latest
+clusterId:1056	handle,help,game,back,windowssupport,update,build,well
+clusterId:1058	window,lumiahelp assistance,support,lumiahelp
+clusterId:1059	xboxsupport1,game
+clusterId:1061	battlefield_#_play battlefield_#_strict,advanced,warfare,xbox,advanced warfare_#_halo war
+clusterId:1062	house_#_family_#_family always_#_home
+clusterId:1065	station
+clusterId:1066	xboxsupport,issue,problem,fine,live
+clusterId:1067	tried clearing cache,cache
+clusterId:1069	xboxsupport,communication,banned,xbox
+clusterId:1070	second
+clusterId:1073	contact,microsoft
+clusterId:1077	need,new computer,love
+clusterId:1079	purchase,purchase can,not completed,not completed time,can not completed,purchase can not,completed,completed time,can not
+clusterId:1082	xboxsupport,controller,glass,work,audio
+clusterId:1086	photo_#_image
+clusterId:1088	im excited
+clusterId:1089	xboxsupport,invite
+clusterId:1090	destiny,im trying,trying,xbox one
+clusterId:1092	got banned,xboxsupport_#_screen,tried,xboxsupport,game,loading screen,ive tried_#_finally got update,update_#_finally got,finally,got xbox,xbox one_#_finally got,finally_#_got banned,friend,banned,reported
+clusterId:1093	xbox,xboxsupport1
+clusterId:1094	wont,another
+clusterId:1095	disable
+clusterId:1096	back,windowssupport,wont,windowssupport ive,turn
+clusterId:1099	xboxsupport,digital,game,xbox one
+clusterId:1100	fifa
+clusterId:1101	trip_#_plane_#_epic_#_crashed
+clusterId:1102	create,myclass,rename
+clusterId:1103	windows8,microsoft
+clusterId:1104	screen,screen shot,xbox
+clusterId:1105	didnt,dont,internet connection,need,need internet,didnt need internet,update,need internet connection,didnt need,connection
+clusterId:1107	weekend_#_season_#_summer_#_season pas,xboxsupport
+clusterId:1108	partnership
+clusterId:1111	code,xboxsupport,half,hour code,hourofcode,complete
+clusterId:1114	training
+clusterId:1115	miss
+clusterId:1116	xboxsupport,doesnt
+clusterId:1117	microsofthelps
+clusterId:1118	extra,life,beam,extra life_#_life
+clusterId:1122	batman arkham,arkham,batman,xbox
+clusterId:1124	phone,xboxsupport
+clusterId:1125	reference
+clusterId:1126	thank,support,hour,skypesupport,contact
+clusterId:1128	log game,try log_#_log in,xbox,way log in,trying log,trying,account,way log
+clusterId:1129	callofduty
+clusterId:1130	xboxsupport,play,wont,wont let,let play,game
+clusterId:1131	support,told
+clusterId:1133	network,error
+clusterId:1136	xboxsupport,month,xbox
+clusterId:1137	device,appear,intune,intune preview,long,msintune,take,azure
+clusterId:1139	help,window
+clusterId:1143	shouldve,shouldve went,went
+clusterId:1144	help,thanks
+clusterId:1145	call
+clusterId:1147	ignoring_#_frustrated
+clusterId:1149	open,wired,nat already
+clusterId:1150	problem,lumiahelp,prior
+clusterId:1151	xboxsupport,play destiny,game,play,playing
+clusterId:1153	available,right
+clusterId:1154	account,reset
+clusterId:1156	storage
+clusterId:1158	want,really,look,really want,book,know,surface book,dont,nice,well
+clusterId:1160	centre,account
+clusterId:1161	great,invited
+clusterId:1162	driver
+clusterId:1170	live,xboxsupport,onenote
+clusterId:1171	news always make
+clusterId:1172	youtube_#_video
+clusterId:1173	duty
+clusterId:1176	sync,game
+clusterId:1177	beach,turtle beach
+clusterId:1178	good,online
+clusterId:1179	best,skype emojis,emojis best,emojis,skype emojis best
+clusterId:1181	going,window,cool,stage
+clusterId:1182	surface,love
+clusterId:1183	controller,xbox,xbox one
+clusterId:1185	since,bought,account
+clusterId:1186	help,xboxsupport,try sign,account,xbox
+clusterId:1189	showing
+clusterId:1190	checked_#_check_#_checked problem
+clusterId:1192	im trying
+clusterId:1194	xboxsupport,easter,xboxsupport happy,happy easter
+clusterId:1195	name,domain name,skypesupport
+clusterId:1196	cant,log account,cant log in,wunderlist,skypesupport,cant log,account,log in
+clusterId:1197	gmail
+clusterId:1198	broken_#_broke
+clusterId:1199	black,xbox,black screen,xboxsupport,back,turn,nothing
+clusterId:1200	achievement,xbox
+clusterId:1201	people,youre
+clusterId:1202	xboxsupport,money,xboxsupport cant,money account,bought,game,cant
+clusterId:1203	working,work
+clusterId:1204	download,reboot
+clusterId:1207	help,cant
+clusterId:1209	great,night
+clusterId:1210	beam,thanks,love,thank,beam love,epic
+clusterId:1215	installed,microsoft,install
+clusterId:1216	thanks,nokia
+clusterId:1217	office,lumia phone,phone
+clusterId:1218	said,support,contacted,help me
+clusterId:1221	spoke_#_asked
+clusterId:1222	sale,mass effect,friday sale,cant,bought far cry,mass effect black,dog mirror,sale cant decide,bought far,dog mirror edge,cant decide,decide play now,far cry,effect black,black,cry watch dog,bought,play,friday sale cant,effect black friday,friday,effect,decide,sale cant,decide play,watch dog,play now,edge,mass,cant decide play,black friday sale,black friday
+clusterId:1224	every,every time,onenote
+clusterId:1225	xbox,wireless
+clusterId:1226	window,windows10,linux
+clusterId:1227	clean,clean install_#_install_#_wont install_#_except window_#_installing window_#_upgraded,upgraded window_#_store,microsofthelps,windowssupport,apps,try install_#_use window_#_installing_#_installation_#_installed,office installed_#_window,upgraded window_#_window maybe,isnt,window_#_version,version window_#_installed_#_window_#_following,window window
+clusterId:1228	hard,windowssupport
+clusterId:1229	xbox,advanced warfare,warfare
+clusterId:1232	router,xboxsupport,work
+clusterId:1233	xboxsupport,support,wont,xbox
+clusterId:1236	working,tried,xbox
+clusterId:1237	microsoft,live
+clusterId:1238	dial,work
+clusterId:1240	xboxsupport,wasnt
+clusterId:1241	going,work
+clusterId:1243	xboxsupport,friend get
+clusterId:1246	medium
+clusterId:1248	seeing,recommend reaching,member one,still seeing,still,member,still seeing issue,youre still,recommend,issue,gotcha youre still,reaching,gotcha,youre still seeing,gotcha youre,seeing issue
+clusterId:1249	xboxsupport,enforcement team,team,info,check
+clusterId:1250	word,microsoft word,dont
+clusterId:1251	window,update
+clusterId:1253	xboxsupport fix,fix ur,xboxsupport fix ur_#_originally caused,issue,originally caused issue,originally,caused issue_#_mpnsupport problem renewing,mpnsupport,subscription_#_looking,looking good_#_are problem_#_whats,whats wrong_#_great work,great,work_#_problem,xboxsupport,help problem_#_fix it,xboxsupport_#_xboxsupport certainly_#_making,xboxsupport making_#_german,sense,keyboard,doesnt make sense_#_window,im really_#_xboxsupport,im good_#_isnt,enough,isnt good_#_thats,thats problem_#_fix freezing,please please,freezing
+clusterId:1254	upgraded
+clusterId:1255	worked,account,created
+clusterId:1257	help_#_pls help
+clusterId:1259	window,help,wont,work
+clusterId:1261	latest,latest build,window,running
+clusterId:1262	delete,email,happened,like,message
+clusterId:1263	xbox,black
+clusterId:1264	rising,dead rising
+clusterId:1266	game,xboxsupport,play,xbox one
+clusterId:1270	shit
+clusterId:1271	xboxsupport,good,xbox one,playing
+clusterId:1273	xbox,compatible
+clusterId:1275	xboxsupport,friend
+clusterId:1276	mobilebiz
+clusterId:1277	take
+clusterId:1279	nothing
+clusterId:1281	havent,didnt
+clusterId:1282	ahead
+clusterId:1284	screen
+clusterId:1285	cool,window,pretty cool,actually
+clusterId:1288	httpstcoqenehds7tb,profile httpstcozjxn1f3pzb power,profile,httpstcozjxn1f3pzb power cycle,power,power cycle,cycle,power cycle httpstcoqenehds7tb,profile httpstcozjxn1f3pzb,cycle httpstcoqenehds7tb,httpstcozjxn1f3pzb power_#_power volume,power,power volume key,volume key,phone
+clusterId:1291	installing,install
+clusterId:1292	take care,take,sick
+clusterId:1293	xboxsupport,trial
+clusterId:1294	xboxsupport,preorder,bungie
+clusterId:1295	thanks,xboxsupport
+clusterId:1296	help,xboxsupport,cant hear,wont,headset,everything,hear friend,working,friend,cant
+clusterId:1297	microsoft,xboxsupport,microsoft edge,list,change,edge
+clusterId:1298	xbox,hard drive,drive,space,xboxsupport,cant
+clusterId:1301	code,xboxsupport,warthog,havent received,havent,received,warthog code,forza horizon,horizon,forza,played
+clusterId:1302	xboxsupport,compatibility,xbox
+clusterId:1304	microsoft,tech
+clusterId:1306	swiftkey,gesture
+clusterId:1307	want_#_need
+clusterId:1308	issue,restarted,crashed
+clusterId:1311	help,bought
+clusterId:1313	state
+clusterId:1314	number
+clusterId:1315	live,xbox live,xboxsupport,xboxsupport xbox,working
+clusterId:1316	update,xboxsupport
+clusterId:1318	xboxsupport,glitch
+clusterId:1321	bcoz
+clusterId:1322	warranty,didnt,console
+clusterId:1323	xboxsupport,system update,system,link
+clusterId:1325	march_#_sunday_#_april
+clusterId:1326	xbox,xbox one,left
+clusterId:1327	broper00
+clusterId:1328	keyboard,lumiahelp,make,make keyboard,contrast,lumia,high,high contrast
+clusterId:1330	reset,reset code,password reset,password
+clusterId:1331	wall
+clusterId:1333	much,appreciated
+clusterId:1335	xboxsupport2,price,xbox,microsoft
+clusterId:1336	fine_#_no fine
+clusterId:1338	activate
+clusterId:1339	build2016
+clusterId:1340	xboxsupport,helping
+clusterId:1341	reinstalling,redownloading profile,profile
+clusterId:1343	idea,window,happened,updated,thing happened,thing
+clusterId:1344	black,xboxsupport,window,black ops,tried installing,installing,install
+clusterId:1345	gave u
+clusterId:1348	update,clean install,window update,install,clean
+clusterId:1349	sign
+clusterId:1350	reinstall,xboxsupport
+clusterId:1351	availability
+clusterId:1352	xbox,microsoft
+clusterId:1357	xboxsupport,dont,delete profile,delete
+clusterId:1358	hotel update,post,hotel update april,msignite,post microsoft ignite,hotel,update april,new post,update,microsoft ignite,ignite hotel update,microsoft ignite hotel,new post microsoft,ignite hotel,april,post microsoft,microsoft
+clusterId:1359	thanks,thank
+clusterId:1360	buddy_#_friend
+clusterId:1362	computer_#_hardware_#_software
+clusterId:1363	cleared
+clusterId:1364	download,xboxsupport
+clusterId:1365	shitty,shitty console
+clusterId:1367	prestofriend531
+clusterId:1368	issue,window,lumiahelp
+clusterId:1369	update,date,info
+clusterId:1370	quick
+clusterId:1373	xboxsupport,gamestop,bundle
+clusterId:1374	attention
+clusterId:1375	doesnt,cant,help,cant download_#_love,love free
+clusterId:1376	thanks,worked,thanks help,xboxsupport,working
+clusterId:1377	player_#_played_#_playing_#_play_#_game dvr_#_game
+clusterId:1379	thanks,working
+clusterId:1380	xboxsupport,xboxsupport xbox,xbox
+clusterId:1381	window,like,look like,look
+clusterId:1382	skype,skypesupport
+clusterId:1383	blue
+clusterId:1384	version,window
+clusterId:1386	account,skype account,microsoft,password
+clusterId:1387	video,record
+clusterId:1388	notification,xboxsupport
+clusterId:1390	program,preview program,preview,still
+clusterId:1392	play,xbox one,game
+clusterId:1394	lumia,lumia xl,microsofthelps,upgrade,used
+clusterId:1396	xboxsupport,tweet
+clusterId:1397	play,able play,havent
+clusterId:1398	xboxsupport,play,online
+clusterId:1399	instead,returning
+clusterId:1400	number,phone number,phone,password,change
+clusterId:1402	xboxsupport,showing,first picture,first
+clusterId:1403	help,xboxsupport
+clusterId:1406	xboxsupport,turn
+clusterId:1407	xbox one,switch
+clusterId:1408	share,work
+clusterId:1409	xboxsupport,know,purchased
+clusterId:1410	send,wont send,wont
+clusterId:1411	help,message,send message,please
+clusterId:1412	xboxsupport,ive signed
+clusterId:1413	xboxsupport,broken
+clusterId:1415	meeting,business
+clusterId:1416	skypesupport,option,unlink
+clusterId:1417	first
+clusterId:1418	help,xboxsupport,cant
+clusterId:1420	xboxsupport,free
+clusterId:1421	window,book,chrome book
+clusterId:1422	website_#_link_#_information_#_info_#_site_#_page
+clusterId:1423	xboxsupport,xboxsupport im,im trouble,notification,receiving notification,im trouble receiving,trouble,trouble receiving
+clusterId:1424	battery,inside
+clusterId:1427	communication,xboxsupport,communication banned,communication banned calling,calling,banned calling
+clusterId:1428	xboxsupport,warranty xbox,xbox
+clusterId:1429	using,year
+clusterId:1431	window,apps,good,cortana
+clusterId:1432	xboxsupport,you uninstalled,xbox
+clusterId:1435	search_#_searching
+clusterId:1436	running much
+clusterId:1437	told,didnt
+clusterId:1438	halo,xboxsupport,halo war,halo xbox,xbox one
+clusterId:1441	experience ive,experience,worst_#_great,experience,great experience_#_experience
+clusterId:1442	error,microsofthelps,error message,message,send,email address,address
+clusterId:1443	bundle,xboxsupport,game,xbox,question,xbox one
+clusterId:1445	xboxsupport,xboxone
+clusterId:1446	enforcement,necessary,xbox
+clusterId:1447	gift,playstation,product,buying
+clusterId:1448	recover,way recover,recovery code,recovery
+clusterId:1449	xboxsupport,done,fine
+clusterId:1450	home,home xbox,xboxsupport
+clusterId:1451	game,ive tried,tried
+clusterId:1453	security
+clusterId:1454	help,thanks help,xboxsupport
+clusterId:1457	microsofthelps,upgrade,product,product key_#_product key
+clusterId:1458	im excited,love_#_xboxsupport,xboxsupport im_#_im sure,problem,sure_#_xboxsupport im_#_im glad_#_like,xboxsupport,work im_#_website,xboxsupport2,xboxsupport2 im_#_skypesupport,skypesupport im_#_im preview,xboxsupport,still_#_im going,going_#_im sure_#_visualstudio,visualstudio im
+clusterId:1459	order
+clusterId:1460	xboxsupport,live,xbox live,xbox
+clusterId:1461	code,notification,microsoft
+clusterId:1463	status,status unavailable
+clusterId:1464	xboxsupport,live,xbox
+clusterId:1465	second pc,brother,network cant,second,network cant make,brother pc started,brother pc,sharing window terrible,window terrible,trying,window terrible brother,tablet,make,cant make,started,window,trying setup network,pc started,pc started network,sharing,terrible brother pc,make second pc,setup network,started network cant,cant,network sharing,terrible brother,trying setup,make second,cant make second,sharing window,setup,setup network sharing,terrible,network sharing window,started network
+clusterId:1468	stuck_#_gotten_#_getting
+clusterId:1469	create,create account,work
+clusterId:1471	customer service,customer,great,xboxsupport_#_customer service,service,thank,microsoftstore,thanks,thank you_#_product key,microsofthelps,window,can not
+clusterId:1472	xboxsupport,available,rise,rise iron,destiny,iron,destiny rise,available pre order,expansion,destiny rise iron,bundle_#_xboxsupport,cant pre order,cant pre,pre order,cant,order
+clusterId:1473	window,would,menu,screen,onedrive
+clusterId:1474	xboxsupport,xbox
+clusterId:1476	much,thank much
+clusterId:1477	phone,receive
+clusterId:1479	xboxsupport,xbox one
+clusterId:1480	recovery tool,recovery,window,device recovery tool,window device recovery,window device,device recovery,device,lumiahelp_#_tool,using,recovery tool,loading,used recovery tool,reset,recovery,used,used recovery
+clusterId:1483	beam
+clusterId:1485	work,disabled
+clusterId:1487	let know thank
+clusterId:1488	best window phone,best,kindly advise upandrunning,kindly advise,best window,model moment kindly advise,latest best window,window,advise upandrunning,phone model moment,phone,latest best,window phone,advise,upandrunning,kindly,model moment kindly,window phone model moment,latest
+clusterId:1489	blocked
+clusterId:1490	safe,safe mode,boot
+clusterId:1491	reinstall_#_deleted_#_delete_#_ive reinstalled_#_uninstalled_#_restart_#_reboot
+clusterId:1492	cortana
+clusterId:1493	life,battery life,good,phone
+clusterId:1494	window,feeling
+clusterId:1496	screenshot
+clusterId:1497	xboxsupport,love,system
+clusterId:1501	love,onedrive
+clusterId:1502	xboxsupport1
+clusterId:1503	controller,elite controller,xbox one,elite,good,one elite controller,xbox one elite,one elite
+clusterId:1504	signed,xboxsupport
+clusterId:1506	find
+clusterId:1507	story,story via
+clusterId:1508	xbox,watching,first time,stream,time,first
+clusterId:1511	account,email
+clusterId:1512	gamertags,xbox
+clusterId:1514	xboxsupport,wont
+clusterId:1518	renew_#_restore
+clusterId:1520	power,wont,wont power_#_power supply,supply,xboxsupport_#_speed_#_power_#_xboxsupport,speed,download speed_#_power cycle_#_power cycle,cycle,router
+clusterId:1521	xboxsupport bo2 only
+clusterId:1523	xboxsupport,joke,support
+clusterId:1525	download,console
+clusterId:1526	window,doesnt,still
+clusterId:1527	repair,switch
+clusterId:1528	nothing,nothing changed,xboxsupport2
+clusterId:1530	cant sign,sign,xboxlive,cant,problem
+clusterId:1532	xboxsupport,xboxsupport netflix
+clusterId:1533	start_#_starting_#_started
+clusterId:1534	really,kinda really,want,kinda
+clusterId:1536	local
+clusterId:1537	unity
+clusterId:1538	like,good,really
+clusterId:1539	xboxsupport,xboxsupport possible,possible,xbox one
+clusterId:1540	resharper c_#_window,surface rt_#_xboxsupport dm_#_beam,beam d_#_xboxsupport tf
+clusterId:1541	account,xboxsupport1,adult account,xboxsupport1 havent,make,havent
+clusterId:1542	access,xbox,ea access_#_xboxsupport,access preview,preview,xboxsupport access
+clusterId:1544	outlook,microsofthelps
+clusterId:1547	xbox,sign
+clusterId:1548	xboxsupport,region u,live,change,balance
+clusterId:1549	msonenote
+clusterId:1550	melbourne halowars2 streetart
+clusterId:1551	xboxsupport,msonenote
+clusterId:1552	semester,academic
+clusterId:1553	data
+clusterId:1554	live
+clusterId:1555	laptop,need,window
+clusterId:1556	window,launch,today
+clusterId:1557	apps,photo
+clusterId:1558	id love,share
+clusterId:1560	xboxsupport,report,bug report,software issue,issue,skypesupport,update
+clusterId:1561	working,looked
+clusterId:1562	never,request
+clusterId:1563	wunderlist,emergency
+clusterId:1564	help,xboxsupport,xbox
+clusterId:1565	retailer,window
+clusterId:1566	keep,try later,problem try,xbox,keep getting,problem try later,getting,live,problem,beam,xbox one
+clusterId:1567	like
+clusterId:1569	reason
+clusterId:1571	audio
+clusterId:1572	windowssupport,clean boot,admin,clean
+clusterId:1573	black,black bar,lumia
+clusterId:1574	recovery,new account,skypesupport
+clusterId:1575	app watch_#_watch
+clusterId:1577	played,game
+clusterId:1578	didnt,reinstalling,didnt work,tried,xboxsupport,reinstall,uninstalled,also
+clusterId:1579	xboxsupport,friend,invite,every,screen,every time,join,time
+clusterId:1582	still,havent
+clusterId:1583	xboxsupport,dashboard update,update,download,first
+clusterId:1585	setting,xboxsupport hi,account
+clusterId:1586	playing,playing xbox
+clusterId:1587	progress,achievement,forza horizon,forza,horizon
+clusterId:1589	like,audience,look like,look
+clusterId:1592	game,xbox,xboxsupport
+clusterId:1593	able view,able,xboxsupport1
+clusterId:1594	people
+clusterId:1597	demo
+clusterId:1599	mass effect,beam,mass
+clusterId:1602	xboxsupport,dont
+clusterId:1603	window,office,ubuntu,software,pretty,work
+clusterId:1604	xboxsupport,question
+clusterId:1606	communication
+clusterId:1607	shape
+clusterId:1609	follow_#_continue
+clusterId:1612	xboxsupport,wont,connect,xboxsupport xbox,work,xbox one
+clusterId:1613	xboxsupport,work
+clusterId:1616	sound,lumiahelp
+clusterId:1617	xboxsupport,compatible,backwards compatible,backwards
+clusterId:1619	windowssupport,error code,windowssupport im,error
+clusterId:1622	guarantee
+clusterId:1623	windowssupport
+clusterId:1625	card,delete
+clusterId:1628	featues
+clusterId:1629	happycoding,via code,happycoding via code,happycoding via
+clusterId:1630	xboxsupport,going,reason,time
+clusterId:1631	check,surprise,privacy
+clusterId:1633	thank,thank microsoft,microsoft
+clusterId:1636	xboxsupport,xboxsupport explain
+clusterId:1637	time,send,going,email,inbox
+clusterId:1638	make,little,window,found
+clusterId:1639	solved_#_issue_#_question_#_problem
+clusterId:1641	xbox,xboxsupport,screen,stuck,loading screen,green,green loading,green loading screen,xbox one,stuck green,xbox one stuck,turn xbox,one stuck,stuck green loading,turn
+clusterId:1643	cant,send
+clusterId:1645	twitch,xbox
+clusterId:1646	thanks,great,start
+clusterId:1647	various,received
+clusterId:1649	thing w,one thing,check,xboxsupport one thing,check xboxsupport one,one thing w,check xboxsupport,thing,xboxsupport one
+clusterId:1650	extension
+clusterId:1651	isolate
+clusterId:1653	conference,microsoft
+clusterId:1655	week,xbox,xbox one
+clusterId:1656	xboxsupport,update,download
+clusterId:1657	help,caught cooling,xboxsupport2 rojotackle dick,xboxsupport2,dick,cooling,rojotackle,xboxsupport2 rojotackle,rojotackle dick,dick caught cooling,cooling fan
+clusterId:1658	thanks,thanks help,xboxsupport
+clusterId:1660	someone,xbox
+clusterId:1661	xboxsupport,isnt,people,well
+clusterId:1662	xbox,turn,xboxsupport,button,power button,supply,power supply_#_xboxsupport,supply,power supply
+clusterId:1665	last
+clusterId:1666	friend,skype
+clusterId:1667	later,fine
+clusterId:1668	xboxsupport2
+clusterId:1670	xboxsupport,download,xbox one
+clusterId:1671	live,xbox live,xboxsupport
+clusterId:1672	xboxsupport,play
+clusterId:1673	contact
+clusterId:1674	controller,help,help controller,right,stick,piece,left
+clusterId:1675	example
+clusterId:1676	msftsecurity,microsoft
+clusterId:1677	turn,tried,light,ive tried,orange,light turn,power,power light,solid orange,solid
+clusterId:1678	dont,xboxsupport,store
+clusterId:1679	adapter,work
+clusterId:1680	method
+clusterId:1682	chrome_#_finish
+clusterId:1684	need,able
+clusterId:1685	microsoftstore,process
+clusterId:1686	video,record,lumiahelp,mobile,time
+clusterId:1688	xboxsupport
+clusterId:1691	xboxsupport,bluray player,bluray
+clusterId:1692	link,contact
+clusterId:1693	xboxsupport,xbox,xbox live,sign,keep
+clusterId:1694	dont,want,xbox
+clusterId:1695	xboxsupport,changed,changed gamertag,xboxsupport changed gamertag,email,change,xboxsupport changed,change email
+clusterId:1697	solution,time
+clusterId:1699	open
+clusterId:1700	visa
+clusterId:1701	reset,account,cant
+clusterId:1702	twitch,like twitch,russian,like
+clusterId:1704	xboxsupport,profile,xboxsupport hi,xbox
+clusterId:1705	xboxsupport,start
+clusterId:1706	xboxsupport,card,credit,credit card,game,download
+clusterId:1710	keyboard,time
+clusterId:1711	like,xbox one
+clusterId:1712	help,wont let,help wont,xbox
+clusterId:1714	server_#_error
+clusterId:1715	replaced
+clusterId:1716	lumiahelp,appear,tried,windowssupport,account
+clusterId:1718	visualstudio,havent
+clusterId:1719	download,beta
+clusterId:1720	cant,cant hear,people,xboxsupport,party,people party,hear people party,hear people
+clusterId:1721	seems,window,broken,load,maxthon,work
+clusterId:1722	xboxsupport,support,page
+clusterId:1723	req pack
+clusterId:1724	ugly
+clusterId:1725	error,xboxsupport,error code,isnt
+clusterId:1726	xboxsupport,error code,error
+clusterId:1727	play,xbox
+clusterId:1732	window,update,time
+clusterId:1733	awesome,xbox one
+clusterId:1734	helpful
+clusterId:1736	lost
+clusterId:1738	xboxsupport,didnt
+clusterId:1740	fight
+clusterId:1741	back,reboot,reset,cant hear,xboxsupport3,hear,sound,cant
+clusterId:1742	quick,creepy,start,cute creepy,drawing
+clusterId:1743	xboxsupport,xbox,twice,live,charged twice
+clusterId:1744	edition,microsoft
+clusterId:1745	robot
+clusterId:1746	play,xboxlive
+clusterId:1747	user
+clusterId:1748	temporarily unavailable,unavailable
+clusterId:1749	wifi,connect
+clusterId:1751	xboxsupport,work,doesnt work,profile
+clusterId:1753	idea,disc
+clusterId:1754	format_#_copy_#_file_#_text
+clusterId:1755	back
+clusterId:1757	im good d
+clusterId:1759	sway
+clusterId:1760	xbox,online,service,today,xbox one
+clusterId:1761	skypesupport,problem
+clusterId:1762	charger,wifi
+clusterId:1765	xboxsupport,watch
+clusterId:1767	note
+clusterId:1768	thank,amazing,community
+clusterId:1771	xboxsupport,update thats,thats
+clusterId:1774	sometimes
+clusterId:1778	either,browser
+clusterId:1780	word,microsoft
+clusterId:1781	back,call back,call
+clusterId:1782	xbox,xbox one,neither work,neither,work
+clusterId:1783	gold,xboxsupport,live,xbox live,xbox one
+clusterId:1784	xboxsupport,pre order,order
+clusterId:1785	screenshot,lumiahelp
+clusterId:1786	account,cant
+clusterId:1787	latest,window,like,like it
+clusterId:1788	redownload
+clusterId:1789	language
+clusterId:1793	advanced,advanced warfare,warfare,xbox,xboxsupport got,friend,play,playing
+clusterId:1795	need,microsoft office,microsoft
+clusterId:1796	beam,best,thats
+clusterId:1797	wunderlist
+clusterId:1798	business,getting
+clusterId:1799	update,asus,dell,wont,anniversary,windowssupport,anniversary update,dell xps,window update,work,cant
+clusterId:1801	tried,time
+clusterId:1806	forum,check,youre,nothing
+clusterId:1807	achievement,unlocked
+clusterId:1808	onenote
+clusterId:1809	result
+clusterId:1810	dell,doesnt,doesnt work,work,dell inspiron,inspiron
+clusterId:1811	xboxsupport,game,window,backwards,backwards compatible_#_compatible
+clusterId:1812	plug,xbox
+clusterId:1817	product_#_buying_#_company_#_business_#_bought
+clusterId:1818	season,xboxsupport,bought
+clusterId:1820	xbox1
+clusterId:1822	beta,xbox forhonorgame,forhonorgame
+clusterId:1823	game,dont
+clusterId:1824	microsoft,life
+clusterId:1825	polish launching
+clusterId:1829	share,xbox
+clusterId:1830	green
+clusterId:1832	console,game
+clusterId:1835	laptop,microsofthelps,help
+clusterId:1836	outlook_#_outlook yes
+clusterId:1838	india_#_brazil
+clusterId:1840	added
+clusterId:1841	xboxsupport taken,taken
+clusterId:1842	tweet_#_twitter
+clusterId:1845	dont,info
+clusterId:1847	logged
+clusterId:1848	help,didnt help,didnt
+clusterId:1849	like,thank you
+clusterId:1851	community
+clusterId:1852	xboxsupport3
+clusterId:1854	game,xboxsupport
+clusterId:1855	need,need fix,store
+clusterId:1857	window,time
+clusterId:1858	skypesupport,account
+clusterId:1859	client
+clusterId:1860	skypesupport,blocked,skype,still,account blocked,time
+clusterId:1861	xboxsupport,xbox live,live
+clusterId:1862	creating,class
+clusterId:1863	icon,page,browser
+clusterId:1865	available,xboxsupport,please
+clusterId:1866	xboxsupport,xbox,really loud,really,playing
+clusterId:1867	xboxsupport,game,party chat,unable,chat,party
+clusterId:1869	dont,much,think
+clusterId:1871	button,time
+clusterId:1872	xboxsupport,getting
+clusterId:1873	saferonline,locked,saferb2ssweepstakes
+clusterId:1875	hard
+clusterId:1879	name
+clusterId:1880	insider preview,window insider,insider,build
+clusterId:1881	xboxsupport,try download,keep
+clusterId:1882	drunk,beam,youre
+clusterId:1883	never,received,never received
+clusterId:1884	xboxsupport,yeah,languaje
+clusterId:1886	class
+clusterId:1887	community,amazing,platform
+clusterId:1889	account,xboxsupport,email
+clusterId:1891	xboxsupport,xboxsupport latency
+clusterId:1892	using,started using,window
+clusterId:1893	tomorrow,excited
+clusterId:1894	mslearning
+clusterId:1895	student,holiday,french
+clusterId:1896	girl,today
+clusterId:1897	msignite,friend
+clusterId:1898	like,class
+clusterId:1900	account,create,help,create account,sign in,skypesupport
+clusterId:1901	right,cant sign,sign,cant,xboxsupport hi,reason
+clusterId:1902	im using_#_im using lumia,window,update,phone,lumia
+clusterId:1903	normal_#_level_#_high
+clusterId:1905	window,microsoft
+clusterId:1907	xboxsupport preordered,xboxsupport,get dl,get dl code,preordered,dl code
+clusterId:1909	tried,xboxsupport,didnt
+clusterId:1910	xboxsupport,play,wait
+clusterId:1911	xbox,xbox one
+clusterId:1912	one day,phone
+clusterId:1914	controller,need,new controller,wont,sync,turn,pack,battery pack_#_xboxsupport,skin pack,skin,thats,subscription,kombat,kombat pack
+clusterId:1915	idea,everything
+clusterId:1918	phone,store
+clusterId:1920	laptop,need new laptop_#_new laptop_#_laptop,new laptop_#_laptop,need,new laptop
+clusterId:1921	application
+clusterId:1922	love,good,watching,shes,barely,much
+clusterId:1925	window,window phone_#_looking,forward,looking forward,great,phone,window phone_#_phone,window,window phone_#_lumiahelp,connect,connect phone
+clusterId:1926	done,restarted
+clusterId:1927	bank,xbox
+clusterId:1928	xboxsupport,game,xbox,xbox one
+clusterId:1930	want,spot
+clusterId:1931	support,contact
+clusterId:1932	framework,standard,sp3 core
+clusterId:1934	xboxsupport,working
+clusterId:1935	skypesupport,issue,person
+clusterId:1939	feature,super
+clusterId:1940	downloading,finally
+clusterId:1941	make_#_making
+clusterId:1943	xboxsupport,xbox live,suspended,live,bullshit,account
+clusterId:1949	xboxsupport,edition
+clusterId:1950	order,xboxsupport,pre order,xbox
+clusterId:1951	window,installed
+clusterId:1952	window,onenoteq,great,thanks,microsoft
+clusterId:1953	xboxsupport,play,game
+clusterId:1954	window,never,achievement,xboxsupport
+clusterId:1955	want,people,xboxsupport
+clusterId:1957	xboxsupport,wont,live
+clusterId:1958	office,microsoft office,well
+clusterId:1961	enjoyed,today
+clusterId:1962	help,need
+clusterId:1964	skype,skype number,skypesupport,number tmobile,tmobile,skype number tmobile
+clusterId:1965	thank,thank you
+clusterId:1966	chill
+clusterId:1967	support,support chat,problem
+clusterId:1968	xboxsupport,hello
+clusterId:1971	xboxsupport,follow
+clusterId:1972	office,microsoft office_#_microsoft,microsoft office
+clusterId:1973	black ops
+clusterId:1976	time
+clusterId:1977	sent today,help,request item sent,today it gone,random,wrong address random,random signed it,u help,signed it u,service request item,gone wrong,wrong address,service,sent today it,random signed,address random,item sent,sent,it gone wrong,address random signed,item sent today,gone wrong address,it gone,wrong,it u help,address,signed it,service request,request,signed,request item,item,today it,today
+clusterId:1978	xbox,loyal,xboxsupport,xboxsupport please
+clusterId:1979	create,upload studio,studio,upload
+clusterId:1980	swiftkey
+clusterId:1983	address,message
+clusterId:1986	skyping
+clusterId:1988	place
+clusterId:1989	account,sign,xboxsupport2
+clusterId:1990	advanced warfare,warfare,xboxsupport
+clusterId:1991	thanks,restart
+clusterId:1993	support,xbox,xbox support_#_support_#_support,customer,customer support_#_volta,doesnt,doesnt support_#_office,microsofthelps,office support
+clusterId:1996	photobooth,dashing microsoftstore,microsoftstore,season selfies went dashing,dashing microsoftstore holiday,went dashing microsoftstore,holiday photobooth,microsoftstore holiday,holiday,microsoftstore holiday photobooth,season selfies went,dashing,ti season selfies,went dashing,went
+clusterId:1999	membership,xboxsupport,gold membership,get gold,get gold membership_#_live,gold,xboxsupport,xbox live,live gold,xbox live gold
+clusterId:2000	console,kinect,power
+clusterId:2001	something,wrong
+clusterId:2003	time,xboxsupport,first time,first
+clusterId:2004	want,right,window,middle
+clusterId:2007	office,microsoft
+clusterId:2008	xbox,team,like,issue
+clusterId:2011	xboxsupport yes,thing,mean
+clusterId:2012	xboxsupport,locked
+clusterId:2013	long,long think,think,different,take
+clusterId:2015	window,wait
+clusterId:2017	xboxsupport,latte
+clusterId:2019	reedem
+clusterId:2020	called
+clusterId:2021	received,sent
+clusterId:2022	later
+clusterId:2023	redeemed,install
+clusterId:2025	laptop,window machine,replace,window,work,machine
+clusterId:2027	blue screen,error,blue,microsofthelps,window_#_black,xboxsupport black_#_black ops,xboxsupport,xbox_#_black ops,xboxsupport_#_red ring,ring,xboxsupport
+clusterId:2028	xboxsupport,gold
+clusterId:2029	keyboard,msignite,idea,huge,update,user
+clusterId:2032	xboxsupport,thanks
+clusterId:2033	callofduty,xbox
+clusterId:2034	connect,wont,automatically
+clusterId:2035	game,love,guess
+clusterId:2037	prevent changing,prevent,changing
+clusterId:2038	reinstall,failed,uninstall reinstall,work
+clusterId:2039	via code,happycoding via code,happycoding,happycoding via
+clusterId:2040	msonenote,math
+clusterId:2041	lumia,project,lumiahelp
+clusterId:2045	already,million time,time already,million time already,time
+clusterId:2046	help,xboxsupport,need
+clusterId:2047	tonight,account
+clusterId:2048	yet start again_#_start button,window,button
+clusterId:2049	free,expertled training,free expertled training,training msvirtacademy,msvirtacademy,free expertled,expertled training msvirtacademy,expertled,getting free,im getting,getting,getting free expertled,im getting free
+clusterId:2051	xboxsupport,get refund,purchase
+clusterId:2053	xbox,banned,think
+clusterId:2057	xboxsupport,tonight
+clusterId:2059	chat,live
+clusterId:2060	xbox,xboxsupport,xbox one
+clusterId:2062	gold,xbox live gold,live,live gold,xbox live,xboxsupport,xbox one_#_xbox,xboxsupport,xbox one,live,cant,chat,party chat,xbox live_#_trouble,trouble connecting,connecting,live,xboxsupport,connect,connecting xbox,trouble connecting xbox,xbox live
+clusterId:2067	reset_#_reset it_#_hard reset
+clusterId:2068	xboxsupport,help,xbox
+clusterId:2069	xboxsupport,chat
+clusterId:2071	xboxsupport,send link,send
+clusterId:2072	network_#_free_#_service_#_wireless_#_downloading_#_downloaded_#_internet_#_online_#_wired_#_modem_#_plugged_#_wifi_#_download_#_access
+clusterId:2073	xboxsupport,skin,skin pack,halo
+clusterId:2075	team
+clusterId:2076	alot
+clusterId:2078	skype,much,friend
+clusterId:2079	xboxsupport,xboxambassadors
+clusterId:2080	lumia,repair,lumiahelp
+clusterId:2081	repair_#_auto
+clusterId:2085	please,debugging
+clusterId:2086	info,thanks,thanks info_#_account,info,account info
+clusterId:2088	slow
+clusterId:2089	lb rb,lb rb x_#_mortal kombat,mortal,mortal kombat x,game,kombat x_#_xbox,mortal kombat,kombat,mortal kombat x,kombat x
+clusterId:2090	talking_#_talk_#_speak
+clusterId:2091	xboxsupport,dont know,nope,nope dont,yes dont,know
+clusterId:2092	bought,gift card,card,gift
+clusterId:2093	xboxsupport,problem,xbox one
+clusterId:2095	nat type,type,open_#_xboxsupport,strict nat type,strict,type,nat type,strict nat
+clusterId:2096	xbox,party,help,connecting,connection,started
+clusterId:2097	word,microsoft word_#_word_#_microsoft,microsoft word
+clusterId:2098	black,black ops,xbox
+clusterId:2099	french
+clusterId:2103	great tip_#_cool_#_awesome_#_amazing_#_good_#_great hear_#_awesome day_#_great_#_idk look cool
+clusterId:2104	xboxsupport,freezing,xbox xboxsupport,stop
+clusterId:2105	week,week view,view
+clusterId:2106	preview,program,preview program_#_preview,xboxsupport,selected xbox,program,loss,common,selected,preview program
+clusterId:2107	xbox,trilogy
+clusterId:2108	chance
+clusterId:2109	please
+clusterId:2110	installed,thank
+clusterId:2111	lumianigeria,phone
+clusterId:2114	xboxsupport,move,work,people,didnt,know
+clusterId:2115	stream
+clusterId:2117	world
+clusterId:2118	microsofthelps,window,going,issue,think
+clusterId:2119	system,update,error code,error
+clusterId:2120	mind
+clusterId:2122	dashboard,xboxsupport
+clusterId:2123	cant,xboxsupport,wont
+clusterId:2124	stuck,problem
+clusterId:2125	straight
+clusterId:2127	office365
+clusterId:2128	update,time,window
+clusterId:2129	xboxsupport,anything
+clusterId:2130	xbox,bought,ever,today,buying,ive ever
+clusterId:2131	window,date window,lumia,release,official,mobile,lumiahelp whats date,upgrade,whats,mobile phone,lumiahelp whats,phone,india,lumiahelp,release mobile phone,official release,whats date window,whats date,release mobile
+clusterId:2132	scroll
+clusterId:2133	play,problem
+clusterId:2134	program,issue
+clusterId:2136	drive,xbox,hard drive,xboxsupport,game,external hard,external hard drive,external,well_#_external,xboxsupport,external hard,hard,external hard drive,hard drive,xbox
+clusterId:2138	free,xbox
+clusterId:2139	xboxsupport,xboxsupport yeah,window
+clusterId:2140	thanks,awesome
+clusterId:2141	xboxsupport,many,router
+clusterId:2142	twitch,beam,twitch app,xbox one,twitchsupport,much,stream
+clusterId:2143	window,good
+clusterId:2144	xboxsupport,reply
+clusterId:2145	exactly
+clusterId:2147	music,groove music,groove
+clusterId:2149	mieexpert,onenote
+clusterId:2151	xboxsupport,game dvr,game
+clusterId:2153	email,xboxsupport,account
+clusterId:2154	power,power cycle,cycle,thats
+clusterId:2155	refund,xboxsupport,refund game,online
+clusterId:2156	managed,anyway,managed sort thanks,managed sort,sort,thanks anyway,sort thanks,sort thanks anyway
+clusterId:2157	seen_#_seeing
+clusterId:2160	piece art
+clusterId:2162	loading,screen,xboxsupport,loading screen,stuck,xbox one,xboxsupport xbox,green
+clusterId:2163	lock screen,window,screen,cortana,many,window cortana
+clusterId:2164	phone,connect
+clusterId:2165	xboxsupport,cant
+clusterId:2166	connects,lumiaus
+clusterId:2168	really,accts,experience
+clusterId:2169	yeah,thats,minecraft
+clusterId:2170	done
+clusterId:2171	wifi,problem,upgraded win_#_normally win_#_since win
+clusterId:2173	cleared,cleared cache,xboxsupport2,restarted,problem
+clusterId:2174	share,easy,sway
+clusterId:2175	store,xbox
+clusterId:2176	xboxsupport,xboxsupport help_#_email,microsofthelps,please,access,cant,please help
+clusterId:2181	home,said,skyped,time
+clusterId:2183	calendar,outlook calendar_#_calendar
+clusterId:2188	good,happycoding via code,happycoding,via code,happycoding via
+clusterId:2189	wunderlisthelp quit
+clusterId:2190	visualstudio way,visualstudio
+clusterId:2191	send,like,fixed
+clusterId:2192	account,banned
+clusterId:2195	need new,new computer bad,new computer_#_need,need new,new computer_#_need new,new computer
+clusterId:2196	outlook,time
+clusterId:2197	way get
+clusterId:2199	account,xboxsupport
+clusterId:2201	lmfao groupme lit
+clusterId:2203	tried,xboxsupport
+clusterId:2205	part
+clusterId:2206	froze_#_freezing_#_freeze
+clusterId:2207	xboxsupport,store
+clusterId:2208	work,onyour,lumia 535s,lumia
+clusterId:2209	chat,server beta,beta,chat server_#_server error,server_#_xboxsupport fix server
+clusterId:2211	awake,rio2016
+clusterId:2212	reinstalling,game
+clusterId:2213	xboxsupport,xbox,update
+clusterId:2214	help,cant,skypesupport,update,wrong,hello
+clusterId:2215	apps,msonenote,core
+clusterId:2216	setup
+clusterId:2219	control_#_controller
+clusterId:2220	away,away home,new film,livelite,family,skypelites new,family skypeindia livelite,skypelites,family skypeindia,film,skypeindia,skypelites new film,skypeindia livelite_#_need,new laptop,need new laptop,need new,like
+clusterId:2222	freeview,cable,freeview box work_#_working chrome,working_#_network,fine,show,work,stopped,windowssupport,account,stopped working_#_xboxsupport,xboxsupport work_#_thanks,thanks worked_#_doesnt,doesnt work_#_tried,didnt,didnt work
+clusterId:2223	look,look like,window
+clusterId:2225	skypeclassroom,niagara,ndeschargers,lesson,knwhipple skypeclassroom,canada,lesson niagara,canada side krallgeier,canada side,niagara fall,little lesson niagara,fall canada,lesson niagara fall,knwhipple skypeclassroom ndeschargers,side krallgeier knwhipple,krallgeier,little lesson,fall,fall canada side,niagara fall canada,side krallgeier,krallgeier knwhipple skypeclassroom,knwhipple,krallgeier knwhipple,side,skypeclassroom ndeschargers
+clusterId:2226	increase
+clusterId:2227	xboxsupport,since,change
+clusterId:2228	going
+clusterId:2229	appreciate,need
+clusterId:2230	xboxsupport,tried,try later,later,xboxsupport tried,profile cant downloaded,downloading,profile cant,profile,cant downloaded,downloaded,thing,tried downloading,cant,xbox one
+clusterId:2231	tomorrow,email
+clusterId:2232	test
+clusterId:2234	year_#_week_#_year,year ago_#_month_#_day ago_#_done,day ago
+clusterId:2235	received,windowsdev,notification,receiving,every
+clusterId:2236	xboxsupport,person never,never,coded
+clusterId:2238	xboxsupport,wan na,skype,setting
+clusterId:2240	fixed problem,problem,fixed_#_fixed
+clusterId:2246	look,legit
+clusterId:2248	lumia_#_lumia buy,get lumia buy,lumianigeria,get lumia_#_unlock_#_new lumia_#_nokia
+clusterId:2250	tweet,wait
+clusterId:2251	stop_#_stop code,stop_#_stop using,using
+clusterId:2252	moment
+clusterId:2253	account,card,credit card,bank account,credit
+clusterId:2254	xboxsupport,screen
+clusterId:2255	xboxsupport,send,game,wont,xbox one
+clusterId:2257	factory
+clusterId:2258	store_#_xbox,xboxsupport,store,microsoft store_#_microsoft,microsoft store
+clusterId:2259	start,xboxsupport,game,player,need,dont know,know
+clusterId:2260	purchased,wont
+clusterId:2263	learning,microsoftedu
+clusterId:2264	clean
+clusterId:2265	please,find,stop,cant find,cant,skypesupport
+clusterId:2266	xbox,update,time
+clusterId:2267	thanks,data
+clusterId:2269	controller,xbox one,xboxsupport
+clusterId:2270	need,need help,xboxsupport,help xbox,xbox
+clusterId:2271	better,great
+clusterId:2272	router
+clusterId:2273	past
+clusterId:2274	microsofthelps,email,login,cant,need,skypesupport
+clusterId:2275	headset,xboxsupport,voice,sound
+clusterId:2276	windowssupport,install,laptop,window,update
+clusterId:2277	xbox,twitter,stream,xbox one,live stream,live,take
+clusterId:2278	screen,window
+clusterId:2279	xboxsupport,xboxsupport xbox,dont
+clusterId:2280	skype,landline,skype app,app landline,skype app landline_#_app fix,problem,update_#_xboxsupport,start,xboxsupport hi,party app_#_wont,phone app_#_window,window app_#_upload studio,studio,xboxsupport_#_xboxsupport starting downloading_#_xboxsupport,smartglass app_#_xboxsupport,wireless,display app,wireless display,display,wireless display app_#_link,store app_#_tried,tried downloading
+clusterId:2281	xboxsupport,account
+clusterId:2282	issue,report,deleted,windowssupport
+clusterId:2283	version,skypesupport,skype version,skype pc,load,android,tried,hello
+clusterId:2284	microsoft word,free,microsoft_#_thank,thank microsoft_#_microsoft account,microsoft_#_love,love microsoft_#_microsoft outlook,microsoft_#_microsoft,microsoft office,got microsoft_#_sign,need,sign using microsoft,using microsoft account,account_#_microsoft word,microsoft
+clusterId:2285	someone
+clusterId:2287	moderate
+clusterId:2288	game,xbox
+clusterId:2289	platform
+clusterId:2290	free,xboxsupport,download
+clusterId:2291	xbox,headset,adapter,chat,xbox one,turtle,turtle beach,would,beach
+clusterId:2293	stuff
+clusterId:2294	xboxsupport,wired connection,wired
+clusterId:2296	issue,office,microsofthelps,resolve,resolve issue,problem
+clusterId:2297	phone,email,phone number,xboxsupport,microsoft
+clusterId:2298	forza horizon pc,forza horizon,horizon pc,forza,xbox,horizon_#_xboxsupport,xbox,available,forza horizon,standard,horizon,forza,edition forza horizon,edition forza,standard edition,ultimate edition,xbox one,ultimate_#_xboxsupport,forza horizon,horizon,forza,cant,download forza,game,download forza horizon,try download_#_forza,forza horizon,downloaded,horizon,downloaded forza,downloaded forza horizon,xbox,xbox one_#_destiny rise,console,destiny,rise iron,rise,preorder,iron,destiny rise iron
+clusterId:2299	year,console,controller,year old
+clusterId:2300	grid
+clusterId:2302	unavailable,failed,update failed_#_failed_#_windowssupport failed
+clusterId:2304	skype,life
+clusterId:2305	better,cause
+clusterId:2306	live uk,live_#_xboxsupport,code,live,xbox live_#_gold,xboxsupport,live,xbox live_#_xbox,xbox live_#_xbox,xboxsupport,xbox live gold,live,live gold,xbox live_#_game,live,xboxsupport,xbox live_#_xboxsupport3,live,xbox live_#_xbox,xboxsupport,live subscription,renewal,live,xbox live,subscription,xbox live subscription_#_live,xboxsupport,xbox live_#_gold,xbox,month,live,xbox live_#_xboxsupport,live,xbox live
+clusterId:2308	email,microsoft
+clusterId:2309	issue service alert,issue_#_service,customer service
+clusterId:2311	worked_#_work_#_working
+clusterId:2312	whiteblack
+clusterId:2313	thanks,appreciate
+clusterId:2314	xboxsupport,help
+clusterId:2315	love,window,netflix
+clusterId:2316	difficult,terrible
+clusterId:2318	gmail,help,outlook,xboxsupport
+clusterId:2320	xboxsupport,please,xboxsupport yall,please please
+clusterId:2321	password,want
+clusterId:2322	surface,youve,youve heard,heard
+clusterId:2323	bought,xbox,xbox one
+clusterId:2325	credit,credit card,dont,xboxsupport,dont credit,dont credit card_#_credit,xboxsupport,credit card_#_xboxsupport,need,credit card file,card file,change,method,payment,card,credit,credit card_#_doesnt,xboxsupport,credit,credit card_#_credit,credit card
+clusterId:2326	thank,help
+clusterId:2327	email,password
+clusterId:2328	game,code,xboxsupport,xbox
+clusterId:2329	email,xboxsupport
+clusterId:2330	skype,latest version,latest
+clusterId:2332	gold,xboxsupport gold,gold membership,membership
+clusterId:2333	trying
+clusterId:2334	purchase,xbox
+clusterId:2336	game,install,play
+clusterId:2337	xbox,xbox support,xboxsupport
+clusterId:2338	studio_#_artist_#_visual studio
+clusterId:2339	lumiahelp,apps,reset
+clusterId:2340	store,window store,microsoft
+clusterId:2341	youre_#_theyre_#_whats_#_arent
+clusterId:2342	computer,audio,window,windowssupport
+clusterId:2343	since
+clusterId:2345	xbox,kind
+clusterId:2346	visual studio mac,visualstudio_#_visual studio,visualstudio,visual,installing,studio mac,visual studio mac,installer,installing visual studio,installing visual,version_#_cause,love,love visual studio_#_visual studio,studio code,studio,visual studio code,visual_#_visual studio,another,visual,studio,never update,update visual,never,update visual studio,never update visual_#_studio code,studio_#_visual studio,studio_#_visual studio,studio mac,visual,visual studio mac,preview_#_visual,visual studio_#_code,visual studio code,awesome,cool,powershell_#_code,visual studio code_#_studio,launch,visual studio_#_studio,visual,visual studio,studio code,visual studio code_#_studio,surface studio_#_visual studio,visual,studio_#_using visual studio,studio_#_code,visual studio code,microsoft_#_visual studio,visual,minute,project,studio
+clusterId:2349	bought,game
+clusterId:2350	xboxsupport,thanks,thank
+clusterId:2351	like,easy,well,make
+clusterId:2352	office,microsoft office,college,free,microsoft office free,office free,getting,college student,work,need,student
+clusterId:2353	xboxsupport,microsofthelps
+clusterId:2354	wont,disc,wont eject,disc wont eject,disc wont_#_start,wont,surface wont_#_wont again_#_xboxsupport,update,help,update xbox,wont,download,xbox wont_#_wont let,wont,xbox_#_wont turn,wont,xboxsupport,xbox,button,turn on,wont turn on,red wont turn,xboxsupport xbox,red wont,even,power,power button_#_wont,xboxsupport,wont let,xbox wont let,install game,xbox,install,xbox wont
+clusterId:2355	month,halo war,next,excited
+clusterId:2356	beam,video,stream
+clusterId:2357	welcome,youre welcome_#_appreciate_#_nice thanks_#_thanks_#_happy_#_love_#_thank_#_absolutely,absolutely love_#_love xbox,love,dont,xboxsupport_#_appreciate it,xboxsupport,xboxsupport appreciate it,xboxsupport appreciate_#_welcome_#_microsoft,love love_#_hope
+clusterId:2358	option_#_button_#_click_#_choose_#_taskbar button
+clusterId:2359	downloading,downloaded,sure
+clusterId:2360	digital,bought
+clusterId:2361	business,small business,small
+clusterId:2362	im banned,xboxsupport,xboxsupport im,banned reason,im banned reason,reason,xboxsupport im banned_#_xboxsupport,chat,chat banned
+clusterId:2363	xboxsupport,xboxsupport treyarch,treyarch
+clusterId:2364	window,option,update
+clusterId:2365	xboxsupport,xbox,xbox one
+clusterId:2366	mind,time,every,every time_#_time useless,time_#_time please_#_great,great start,windows10,week,start week_#_every,press,every time_#_month ago,received_#_time,real time_#_second,second time_#_week ago,week_#_xboxsupport,time,disconnected time_#_fibreoptic past day_#_free,gold,xboxsupport,game,game month
+clusterId:2367	fight,fight night champion,xbox_#_game,night,last,last night_#_night,late,night skype,late night,late night skype
+clusterId:2368	sign,xbox,error,xboxsupport hello,sign xbox,hello
+clusterId:2372	surface studio,studio,microsoft_#_surface book,book_#_surface date,date_#_new surface pro,love new,new surface_#_surface pro,work,time_#_surface studio,studio,new surface_#_surface pro,microsoft,microsoft surface,ipad_#_surface studio_#_surface studio,studio,using_#_surface_#_microsoft,microsoft surface_#_surface pro,issue,surface
+clusterId:2373	beat
+clusterId:2376	clear lot
+clusterId:2377	song_#_sound_#_music_#_change,problem,groove,groove music
+clusterId:2378	blue,black,blue screen_#_black,black screen_#_black,xboxsupport,xbox,black screen_#_game,screen,home,home screen_#_black,xboxsupport,twitch app,twitch,outlook,black screen_#_screen,touch,lumianigeria,touch screen_#_home,screen,controller,home screen_#_xboxsupport xbox,xbox,screen,turning,stuck,start,start screen
