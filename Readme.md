@@ -1,8 +1,9 @@
-Perform hierarchical clustering on twitter data using GPU : 
+<h1>Perform hierarchical clustering on twitter data using GPU :</h1>
+
 This project aims at clustering tweets based on their word2vec embeddings using CUDA framework.
 
 
-Steps: 
+<h3>Steps:</h3> 
 
 generateData - generate word2vec data for cuda hierarchical clustering code
 
@@ -19,9 +20,8 @@ generateDendrogram - generate hierarchy for the clusters in graph
 
 
 
+<h3>Results:</h3>
 
-
-A subset of clustered results:
 ![alt text](https://github.com/SB299792458/hierarchical_gpu/blob/master/newplot.png?raw=true)
 
 For full result, download : https://raw.githubusercontent.com/SB299792458/hierarchical_gpu/master/dendrogram_with_labels.html
