@@ -24,8 +24,8 @@ generateDendrogram - generate hierarchy for the clusters in graph
 
 ![alt text](https://github.com/SB299792458/hierarchical_gpu/blob/master/newplot.png?raw=true)
 
-For full result, download : https://raw.githubusercontent.com/SB299792458/hierarchical_gpu/master/dendrogram_with_labels.html
+For full result, download : https://raw.githubusercontent.com/shikhar-b/hierarchical_gpu/master/dendrogram_with_labels.html
 
-Clusters with labels : https://github.com/SB299792458/hierarchical_gpu/blob/master/levelsclusters.txt
+Clusters with labels : https://github.com/shikhar-b/hierarchical_gpu/blob/master/levelsclusters.txt
 
-Logs (with performance and clustering results) : https://github.com/SB299792458/hierarchical_gpu/blob/master/logs.txt
+Logs (with performance and clustering results) : https://github.com/shikhar-b/hierarchical_gpu/blob/master/logs.txt
